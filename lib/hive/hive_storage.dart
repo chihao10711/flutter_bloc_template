@@ -1,3 +1,4 @@
+import 'package:flutter_bloc_template/share/utils/utils.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:injectable/injectable.dart';
 
@@ -9,10 +10,10 @@ class HiveStorage extends KeyStorage {
   late Box box;
 
   Future<void> init() async {
+    logInfo("Init HiveStorage");
     await Hive.initFlutter();
     await Hive.openBox(boxKey);
     Hive.registerAdapter(ThemeModeAdapter());
-
     box = Hive.box(boxKey);
   }
 

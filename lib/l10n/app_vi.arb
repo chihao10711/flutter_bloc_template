@@ -1,3 +1,5 @@
 {
-  "app_name": "APP NAME"
+  "app_name": "APP NAME",
+  "network_online": "Đã khôi phục kết nối với internet.",
+  "network_offline": "Bạn đang offline"
 }

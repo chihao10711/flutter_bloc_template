@@ -1,3 +1,5 @@
 {
-  "app_name": "APP NAME"
+  "app_name": "APP NAME",
+  "network_online": "Restored connection to the internet.",
+  "network_offline": "You are offline"
 }

@@ -30,7 +30,7 @@ class NavigatorUtils {
 
   Future<T?> push<T extends Object?>(Widget widget) {
     return navigatorKey.currentState!.push<T>(
-        MaterialPageRoute<T>(builder: (BuildContext context) => widget));
+        MaterialPageRoute<T>(builder: (BuildContext context) => widget),);
   }
 
   Future<T?> pushReplacementNamed<T extends Object?, TO extends Object?>(

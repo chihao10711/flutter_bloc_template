@@ -25,9 +25,7 @@ class AppSettingState extends Equatable {
   }
 
   Map<String, dynamic> toMap() {
-    final result = <String, dynamic>{};
-
-    result.addAll({'themeMode': themeMode.index});
+    final result = <String, dynamic>{}..addAll({'themeMode': themeMode.index});
     if (locale != null) {
       result.addAll({'locale': locale?.scriptCode});
     }

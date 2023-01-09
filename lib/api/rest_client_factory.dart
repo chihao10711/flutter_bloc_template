@@ -2,6 +2,7 @@ import 'dart:developer';
 
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
+import 'package:flutter_bloc_template/env.dart';
 import 'package:injectable/injectable.dart';
 
 import '../hive/hive.dart';
@@ -17,11 +18,14 @@ class RestClientFactory {
     dio.options.connectTimeout = 30000;
     dio.options.receiveTimeout = 30000;
     if (kDebugMode) {
-      dio.interceptors.add(LogInterceptor(
+      dio.interceptors.add(
+        LogInterceptor(
           responseBody: true,
           logPrint: (data) {
             log("Api Response: $data");
-          }));
+          },
+        ),
+      );
     }
 
     return dio;
@@ -32,21 +36,24 @@ class RestClientFactory {
     dio.options.connectTimeout = 30000;
     dio.options.receiveTimeout = 30000;
     if (kDebugMode) {
-      dio.interceptors.add(LogInterceptor(
+      dio.interceptors.add(
+        LogInterceptor(
           responseBody: true,
           logPrint: (data) {
             log("Api Response: $data");
-          }));
+          },
+        ),
+      );
     }
 
     return dio;
   }
 
   TokenRestClient obtainTokenRestClient() {
-    return TokenRestClient(obtainTokenDio(), baseUrl: '');
+    return TokenRestClient(obtainTokenDio(), baseUrl: Env.url);
   }
 
   RestClient obtainRestClient() {
-    return RestClient(obtainDio(), baseUrl: '');
+    return RestClient(obtainDio(), baseUrl: Env.url);
   }
 }

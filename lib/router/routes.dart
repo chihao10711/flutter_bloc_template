@@ -9,7 +9,7 @@ RouteFactory routes() {
     final arguments = settings.arguments as Map<String, dynamic>? ?? {};
     var name = settings.name;
     switch (name) {
-      case HomeScreen.homeScreen:
+      case HomeScreen.route:
         screen = const HomeScreen();
         break;
       default:
