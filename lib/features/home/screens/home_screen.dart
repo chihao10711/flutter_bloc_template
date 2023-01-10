@@ -5,7 +5,9 @@ import '../../../bloc/bloc.dart';
 
 class HomeScreen extends StatelessWidget {
   static const String route = "home_screen";
-  const HomeScreen({super.key});
+
+  const HomeScreen({Key? key}) : super(key: key);
+
 
   @override
   Widget build(BuildContext context) {
