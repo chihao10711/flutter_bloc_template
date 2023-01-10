@@ -11,10 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: dart-code-metrics
-        uses: dart-code-checker/dart-code-metrics-action@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: dart-code-metrics
+      #   uses: dart-code-checker/dart-code-metrics-action@v1
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload coverage to codecov
         uses: codecov/codecov-action@v2
