@@ -11,10 +11,21 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # - name: dart-code-metrics
-      #   uses: dart-code-checker/dart-code-metrics-action@v1
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install and set Flutter version
+        uses: subosito/flutter-action@v1.4.0
+        with:
+          flutter-version: "3.3.0"
 
-      - name: Upload coverage to codecov
-        uses: codecov/codecov-action@v2
+      - name: Restore packages
+        run: flutter pub get
+
+      - name: Analyze
+        run: flutter analyze
+
+      - name: dart-code-metrics
+        uses: dart-code-checker/dart-code-metrics-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      # - name: Upload coverage to codecov
+      #   uses: codecov/codecov-action@v2
