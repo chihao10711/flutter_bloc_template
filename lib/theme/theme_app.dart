@@ -10,10 +10,12 @@ extension ThemeDataExt on ThemeData {
           brightness: Brightness.dark,
           primaryColor: AppColors.black,
           fontFamily: AppTextStyle.fontFamily,
+          useMaterial3: true,
         );
       case ThemeMode.light:
       default:
         return ThemeData(
+          useMaterial3: true,
           brightness: Brightness.light,
           pageTransitionsTheme: const PageTransitionsTheme(
             builders: {

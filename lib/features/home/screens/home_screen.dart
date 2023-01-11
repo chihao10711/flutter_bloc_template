@@ -3,12 +3,16 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../bloc/bloc.dart';
 
-class HomeScreen extends StatelessWidget {
-  static const String route = "home_screen";
+class HomeScreen extends StatefulWidget {
+  static const String route = "/home_screen";
 
   const HomeScreen({Key? key}) : super(key: key);
 
+  @override
+  State<HomeScreen> createState() => _HomeScreenState();
+}
 
+class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

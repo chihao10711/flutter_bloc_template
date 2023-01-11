@@ -1,77 +1,54 @@
+import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc_template/injection/injection.dart';
 
-class NavigatorUtils {
-  static final navigatorKey = GlobalKey<NavigatorState>();
-  static final RouteObserver<PageRoute> routeObserver =
-      RouteObserver<PageRoute>();
-  bool canPop() {
-    return navigatorKey.currentState!.canPop();
-  }
+import 'router.dart';
 
-  void pop<T extends Object?>([T? result]) {
-    if (navigatorKey.currentState!.canPop()) {
-      return navigatorKey.currentState!.pop<T>(result);
-    }
-  }
+final navigatorKey = GlobalKey<NavigatorState>();
 
-  Future<bool> mayBePop<T extends Object?>([T? result]) {
-    return navigatorKey.currentState!.maybePop<T>(result);
-  }
+final RouteObserver<PageRoute> routeObserver = RouteObserver<PageRoute>();
 
-  Future<T?> pushNamed<T extends Object?>(
-    String routeName, {
-    Object? arguments,
-  }) {
-    return navigatorKey.currentState!.pushNamed<T>(
-      routeName,
-      arguments: arguments,
-    );
-  }
+BuildContext get _context => navigatorKey.currentContext!;
 
-  Future<T?> push<T extends Object?>(Widget widget) {
-    return navigatorKey.currentState!.push<T>(
-        MaterialPageRoute<T>(builder: (BuildContext context) => widget),);
-  }
+StackRouter get router => getIt<RootRouter>();
 
-  Future<T?> pushReplacementNamed<T extends Object?, TO extends Object?>(
-    String routeName, {
-    TO? result,
-    Object? arguments,
-  }) {
-    return navigatorKey.currentState!.pushReplacementNamed<T, TO>(
-      routeName,
-      arguments: arguments,
-      result: result,
-    );
-  }
+@optionalTypeArgs
+Future<T?> pushRoute<T extends Object?>(
+  PageRouteInfo route, {
+  OnNavigationFailure? onFailure,
+}) =>
+    router.push<T>(route, onFailure: onFailure);
 
-  Future<T?> popAndPushNamed<T extends Object?, TO extends Object?>(
-    String routeName, {
-    TO? result,
-    Object? arguments,
-  }) {
-    return navigatorKey.currentState!.popAndPushNamed<T, TO>(
-      routeName,
-      arguments: arguments,
-      result: result,
-    );
-  }
+@optionalTypeArgs
+Future<T?> replaceRoute<T extends Object?>(
+  PageRouteInfo route, {
+  OnNavigationFailure? onFailure,
+}) =>
+    router.replace<T>(route, onFailure: onFailure);
 
-  Future<T?> pushNamedAndRemoveUntil<T extends Object?>(
-    String newRouteName,
-    RoutePredicate predicate, {
-    Object? arguments,
-  }) {
-    return navigatorKey.currentState!.pushNamedAndRemoveUntil<T>(
-      newRouteName,
-      predicate,
-      arguments: arguments,
-    );
-  }
+@optionalTypeArgs
+Future<bool> popRoute<T extends Object?>([T? result]) => router.pop<T>(result);
 
-  void popUntil<T extends Object?>(
-    RoutePredicate predicate,
-  ) {
-    return navigatorKey.currentState!.popUntil(predicate);
-  }
-}
+Future<void> navigateTo(
+  PageRouteInfo route, {
+  OnNavigationFailure? onFailure,
+}) =>
+    RouterScope.of(_context).controller.navigate(
+          route,
+          onFailure: onFailure,
+        );
+
+void navigateBack() => RouterScope.of(_context).controller.navigateBack();
+
+Future<void> navigateNamedTo(
+  String path, {
+  bool includePrefixMatches = false,
+  OnNavigationFailure? onFailure,
+}) =>
+    RouterScope.of(_context).controller.navigateNamed(
+          path,
+          includePrefixMatches: includePrefixMatches,
+          onFailure: onFailure,
+        );
+
+RouteData get routeData => RouteData.of(_context);

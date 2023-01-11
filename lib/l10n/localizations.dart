@@ -11,7 +11,7 @@ class S {
   }
 
   static AppLocalizations get text {
-    return AppLocalizations.of(NavigatorUtils.navigatorKey.currentContext!)!;
+    return AppLocalizations.of(navigatorKey.currentContext!)!;
   }
 
   static List<LocalizationsDelegate<dynamic>> get localizationsDelegates =>
