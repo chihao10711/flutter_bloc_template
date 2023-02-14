@@ -1,0 +1,29 @@
+name: Analyzer code
+
+on:
+  push:
+    branches:
+     - main
+
+jobs: 
+  metrics: 
+    runs-on: ubuntu-latest 
+    
+    steps: 
+    - name: checkout the code 
+      uses: actions/checkout@v3 
+      
+    - name: set up dart sdk 
+      uses: dart-lang/actions/setup-dart@v1 
+      with: 
+        dart-version: 2.18.x 
+      
+    - name: run dart code metrics 
+      run: pub global activate dart_code_metrics 
+      run: dart_code_metrics 
+    
+    - name: upload results 
+      uses: actions/upload-artifact@v2 
+      with: 
+        name: dart code metrics 
+        path: dart_code_metrics_report.html

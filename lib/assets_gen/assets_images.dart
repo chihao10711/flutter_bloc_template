@@ -6,9 +6,9 @@ class AssetImages {
   
   /// Assets for iconsAppIcon
   /// icons/app_icon
-  static AssetImage get iconsAppIcon => const AssetImage(Assets.iconsAppIcon);
+  static AssetImage get iconsAppIcon => AssetImage(Assets.iconsAppIcon);
 
   /// Assets for imagesAppImage
   /// images/app_image
-  static AssetImage get imagesAppImage => const AssetImage(Assets.imagesAppImage);
+  static AssetImage get imagesAppImage => AssetImage(Assets.imagesAppImage);
 }
