@@ -20,7 +20,6 @@ jobs:
       
     - name: run dart code metrics 
       run: pub global activate dart_code_metrics 
-      run: dart_code_metrics 
     
     - name: upload results 
       uses: actions/upload-artifact@v2 
