@@ -18,11 +18,11 @@ jobs:
       with: 
         dart-version: 2.18.x 
       
-    - name: run dart code metrics 
-      run: pub global activate dart_code_metrics 
+    - name: add dart code metrics 
+      run: flutter pub run dart_code_metrics:metrics analyze lib
     
     - name: upload results 
-      uses: actions/upload-artifact@v2 
+      uses: actions/upload-artifact@v3 
       with: 
         name: dart code metrics 
         path: dart_code_metrics_report.html
