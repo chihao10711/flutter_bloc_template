@@ -1,28 +1,29 @@
-name: Analyzer code
+name: Dart Code Metrics
 
-on:
-  push:
-    branches:
-     - main
+on: [push]
 
-jobs: 
-  metrics: 
-    runs-on: ubuntu-latest 
-    
-    steps: 
-    - name: checkout the code 
-      uses: actions/checkout@v3 
-      
-    - name: set up dart sdk 
-      uses: dart-lang/setup-dart@v1
-      with: 
-        dart-version: 2.18.x 
-      
-    - name: add dart code metrics 
-      run: flutter pub run dart_code_metrics:metrics analyze lib
-    
-    - name: upload results 
-      uses: actions/upload-artifact@v3 
-      with: 
-        name: dart code metrics 
-        path: dart_code_metrics_report.html
+jobs:
+  check:
+    name: dart-code-metrics-action
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install and set Flutter version
+        uses: subosito/flutter-action@v2
+        with:
+          channel: "stable"
+
+      - run: flutter --version
+
+      - name: Restore packages
+        run: flutter pub get
+
+      - run: flutter pub run build_runner build --delete-conflicting-outputs
+
+      - name: dart-code-metrics
+        uses: dart-code-checker/dart-code-metrics-action@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
