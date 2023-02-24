@@ -21,7 +21,7 @@ class UserRepositoryImpl extends UserRepository {
         _tokenRestClient = factory.obtainTokenRestClient();
 
   @override
-  Future<DataResponse<UserInfo>> getUserInfo() {
+  Future<BaseResponseModel<UserInfo>> getUserInfo() {
     return _tokenRestClient.getUserInfo();
   }
 }

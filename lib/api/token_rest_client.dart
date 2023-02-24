@@ -10,5 +10,5 @@ abstract class TokenRestClient {
   factory TokenRestClient(Dio dio, {String baseUrl}) = _TokenRestClient;
 
   @GET("api_endpoint")
-  Future<DataResponse<UserInfo>> getUserInfo();
+  Future<BaseResponseModel<UserInfo>> getUserInfo();
 }
