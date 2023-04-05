@@ -15,7 +15,7 @@ import 'theme/theme.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   configureInjection();
-  getIt.registerSingleton<RootRouter>(RootRouter(navigatorKey));
+  getIt.registerSingleton<RootRouter>(RootRouter());
   await getIt<HiveStorage>().init();
 
   runApp(const MyApp());

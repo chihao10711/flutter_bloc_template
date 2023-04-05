@@ -1,6 +1,9 @@
+// import 'package:auto_route/auto_route.dart';
+import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc_template/router/router.dart';
 
+@RoutePage()
 class SplashScreen extends StatefulWidget {
   static const route = "splash_screen";
   const SplashScreen({super.key});

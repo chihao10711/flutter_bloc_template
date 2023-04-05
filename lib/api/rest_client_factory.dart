@@ -15,8 +15,8 @@ class RestClientFactory {
 
   Dio obtainTokenDio() {
     final dio = Dio();
-    dio.options.connectTimeout = 30000;
-    dio.options.receiveTimeout = 30000;
+    // dio.options.connectTimeout = 30000;
+    // dio.options.receiveTimeout = 30000;
     if (kDebugMode) {
       dio.interceptors.add(
         LogInterceptor(
@@ -33,8 +33,8 @@ class RestClientFactory {
 
   Dio obtainDio() {
     final dio = Dio();
-    dio.options.connectTimeout = 30000;
-    dio.options.receiveTimeout = 30000;
+    // dio.options.connectTimeout = 30000;
+    // dio.options.receiveTimeout = 30000;
     if (kDebugMode) {
       dio.interceptors.add(
         LogInterceptor(
