@@ -7,8 +7,8 @@ part of 'env.dart';
 // **************************************************************************
 
 class _Env {
-  static const String url = 'https://xxx.xxx.xxx.vn/api';
-  static const String socket = 'https://xxx.xxx.xxx.vn:6001';
+  static const String url = 'https://xxx.production.vn/api';
+  static const String socket = 'https://xxx.xxx.production.vn:6002';
   static const String xAuth =
       '2vrYdpSnJRXFCBKIOmzPwhklWPQIQtbdZodjt6816GomHmk3GSgTBFirnQHT58l6';
 }
