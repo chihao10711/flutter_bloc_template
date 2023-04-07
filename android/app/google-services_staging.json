@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "215006826728",
+    "project_id": "flutter-bloc-tempalte",
+    "storage_bucket": "flutter-bloc-tempalte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215006826728:android:73ca6aef91c42cb23db95d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bloc_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215006826728-j9eqicdsn6svullg89q8nbihpsvvn45g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCQAkV3zHfxDWex4NEw26gEISLNnbUDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215006826728-j9eqicdsn6svullg89q8nbihpsvvn45g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215006826728-f2fib2r6q1sg9j4rbcljtomja3i3p103.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBlocTemplate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215006826728:android:e688a13602574a5c3db95d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bloc_template.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215006826728-j9eqicdsn6svullg89q8nbihpsvvn45g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCQAkV3zHfxDWex4NEw26gEISLNnbUDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215006826728-j9eqicdsn6svullg89q8nbihpsvvn45g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215006826728-f2fib2r6q1sg9j4rbcljtomja3i3p103.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterBlocTemplate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

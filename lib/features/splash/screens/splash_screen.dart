@@ -5,7 +5,7 @@ import 'package:flutter_bloc_template/router/router.dart';
 
 @RoutePage()
 class SplashScreen extends StatefulWidget {
-  static const route = "splash_screen";
+  static const route = "/";
   const SplashScreen({super.key});
 
   @override

@@ -16,8 +16,15 @@
 default_platform(:android)
 
 platform :android do
-  desc "Runs all the tests"
-  lane :test do
-    sh('../build.sh')
+
+  desc "Build applicaton staging env."
+  lane :build_app_staging do
+    re_build_staging()
+  end
+
+  desc "Before build app"
+  lane :re_build_staging do
+    Dir.chdir("..")
+    sh('script/re_build_staging.sh')
   end
 end
