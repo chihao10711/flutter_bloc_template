@@ -1,16 +1,52 @@
-name: Dart Code Metrics
+# name: Dart Code Metrics
 
-on: [push]
+# on: [push]
+# jobs:
+#   check:
+#     name: dart-code-metrics-action
+
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - uses: actions/checkout@v3
+
+#       - name: dart-code-metrics
+#         uses: dart-code-checker/dart-code-metrics-action@v3
+#         with:
+#           github_token: ${{ secrets.GITHUB_TOKEN }}
+name: Static Analysis Report
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+  push:
+    branches: [main]
+
 jobs:
-  check:
-    name: dart-code-metrics-action
-
+  static-analysis:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
-
-      - name: dart-code-metrics
-        uses: dart-code-checker/dart-code-metrics-action@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2.10.0
+      - name: Install dependencies
+        run: flutter pub get
+      - name: Run static analysis
+        run: dart analyze .
+        env:
+          DART_VM_OPTIONS: --enable-asserts
+      - name: Run code metrics
+        uses: dart-code-checker/dart-code-metrics-action@v3.0.0
+        with:
+          root_folder: .
+          exclude_paths: "build/**,.dart_tool/**"
+      - name: Export HTML report
+        run: |
+          dart pub global activate dart_code_metrics
+          dart pub global run dart_code_metrics:metrics check . --reporter=html --output-directory=report
+      - name: Upload report to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./report
