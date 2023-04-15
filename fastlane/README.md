@@ -31,6 +31,22 @@ Build applicaton staging env.
 
 Before build app
 
+### android build_apk
+
+```sh
+[bundle exec] fastlane android build_apk
+```
+
+
+
+### android bump_version
+
+```sh
+[bundle exec] fastlane android bump_version
+```
+
+
+
 ----
 
 This README.md is auto-generated and will be re-generated every time [_fastlane_](https://fastlane.tools) is run.

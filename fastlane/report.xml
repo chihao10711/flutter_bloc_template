@@ -5,17 +5,7 @@
     
     
       
-      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.000231">
-        
-      </testcase>
-    
-      
-      <testcase classname="fastlane.lanes" name="1: Switch to android re_build_staging lane" time="0.00013">
-        
-      </testcase>
-    
-      
-      <testcase classname="fastlane.lanes" name="2: script/re_build_staging.sh" time="26.72271">
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.000239">
         
       </testcase>
     
