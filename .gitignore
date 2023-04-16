@@ -54,6 +54,4 @@ app.*.map.json
 */fastlane/report.xml
 */fastlane/Preview.html
 */fastlane/screenshots
-
-
-.env
+*/fastlane/build/

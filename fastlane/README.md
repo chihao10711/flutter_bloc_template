@@ -31,18 +31,34 @@ Build applicaton staging env.
 
 Before build app
 
-### android build_apk
+### android build_staging
 
 ```sh
-[bundle exec] fastlane android build_apk
+[bundle exec] fastlane android build_staging
 ```
 
 
 
-### android bump_version
+### android get_firebase_version_android
 
 ```sh
-[bundle exec] fastlane android bump_version
+[bundle exec] fastlane android get_firebase_version_android
+```
+
+
+
+### android upload_firebase_app_distribution
+
+```sh
+[bundle exec] fastlane android upload_firebase_app_distribution
+```
+
+
+
+### android get_changelog
+
+```sh
+[bundle exec] fastlane android get_changelog
 ```
 
 

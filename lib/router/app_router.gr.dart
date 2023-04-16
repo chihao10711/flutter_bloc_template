@@ -9,15 +9,13 @@
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
 import 'package:auto_route/auto_route.dart' as _i3;
-import 'package:flutter/material.dart' as _i4;
 import 'package:flutter_bloc_template/features/home/screens/home_screen.dart'
     as _i1;
 import 'package:flutter_bloc_template/features/splash/screens/splash_screen.dart'
     as _i2;
 
 abstract class $RootRouter extends _i3.RootStackRouter {
-  $RootRouter([_i4.GlobalKey<_i4.NavigatorState>? navigatorKey])
-      : super(navigatorKey);
+  $RootRouter({super.navigatorKey});
 
   @override
   final Map<String, _i3.PageFactory> pagesMap = {

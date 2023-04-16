@@ -16,45 +16,57 @@
 default_platform(:android)
 
 platform :android do
-
   desc "Build applicaton staging env."
   lane :build_app_staging do
-    re_build_staging()
+    re_build_staging
+    get_firebase_version_android
+    build_staging
   end
 
   desc "Before build app"
   lane :re_build_staging do
-    Dir.chdir("..")
-    sh('script/re_build_staging.sh')
+    sh('../script/re_build_staging.sh')
   end
 
-  lane :build_apk do
-    flutter(
-      task: 'build',
-      flavor: 'production',
-      build_number: ENV['BUILD_NUMBER'],
-      release: true,
-      build_name: '1.0.0'
+  lane :build_staging do
+    get_firebase_version_android
+    latest_release = Actions.lane_context[SharedValues::FIREBASE_APP_DISTRO_LATEST_RELEASE]
+    if latest_release.nil?
+      build_version = "1.0.0"
+      build_number = 1
+    else
+      build_version = latest_release[:displayVersion] || "1.0.0"
+      build_number = (latest_release[:buildVersion].to_i + 1).to_s
+    end
+    flutter_build(
+      build: 'apk',
+      build_name: build_version,
+      build_number: build_number,
     )
+    upload_firebase_app_distribution
   end 
-  
-  lane :bump_version do
-    # Read the current version number from the pubspec.yaml file
-    pubspec = YAML.load_file('../pubspec.yaml')
-    current_version = pubspec['version']
-  
-    # Increment the patch version number
-    parts = current_version.split('.')
-    parts[-1] = parts[-1].to_i + 1
-    new_version = parts.join('.')
-  
-    # Update the pubspec.yaml file with the new version number
-    pubspec['version'] = new_version
-    File.write('pubspec.yaml', YAML.dump(pubspec))
-  
-    # Commit the change
-    sh "git commit -am 'Bump version to #{new_version}'"
+
+  lane :get_firebase_version_android do
+    desc "Get latest release firebase app distribution and increase version"
+    latest_release = firebase_app_distribution_get_latest_release(
+      app: ENV["FIREBASE_APP_ID"],
+      firebase_cli_token: ENV["FIREBASE_CLI_TOKEN"],
+    )
+  end
+
+  lane :upload_firebase_app_distribution do
+    firebase_app_distribution(
+      app: ENV["FIREBASE_APP_ID"],
+      groups: "staging-test",
+      release_notes: "Production",
+      firebase_cli_token: ENV["FIREBASE_CLI_TOKEN"],
+      android_artifact_path: ENV["ANDROID_ARTIFACT_PATH"],
+    )
+  end
+
+  lane :get_changelog do
+    read_changelog(
+      changelog_path: ENV['CHANGELOG_PATH'],
+    )
   end
 end
-
-
