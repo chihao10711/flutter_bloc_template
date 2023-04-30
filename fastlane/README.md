@@ -15,22 +15,6 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 
 ## Android
 
-### android build_app_staging
-
-```sh
-[bundle exec] fastlane android build_app_staging
-```
-
-Build applicaton staging env.
-
-### android re_build_staging
-
-```sh
-[bundle exec] fastlane android re_build_staging
-```
-
-Before build app
-
 ### android build_staging
 
 ```sh
@@ -55,10 +39,10 @@ Before build app
 
 
 
-### android get_changelog
+### android change_firebase_config_staging
 
 ```sh
-[bundle exec] fastlane android get_changelog
+[bundle exec] fastlane android change_firebase_config_staging
 ```
 
 

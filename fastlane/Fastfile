@@ -16,21 +16,24 @@
 default_platform(:android)
 
 platform :android do
-  desc "Build applicaton staging env."
-  lane :build_app_staging do
-    re_build_staging
-    get_firebase_version_android
-    build_staging
-  end
+  # desc "Build applicaton staging env."
+  # lane :build_app_staging do
+  #   re_build_staging
+  #   get_firebase_version_android
+  #   build_staging
+  # end
 
-  desc "Before build app"
-  lane :re_build_staging do
-    sh('../script/re_build_staging.sh')
-  end
+  # desc "Before build app"
+  # lane :re_build_staging do
+  #   sh('../script/re_build_staging.sh')
+  # end
 
   lane :build_staging do
+    change_firebase_config_staging
     get_firebase_version_android
     latest_release = Actions.lane_context[SharedValues::FIREBASE_APP_DISTRO_LATEST_RELEASE]
+
+    # Change build_version and build build_number
     if latest_release.nil?
       build_version = "1.0.0"
       build_number = 1
@@ -38,11 +41,24 @@ platform :android do
       build_version = latest_release[:displayVersion] || "1.0.0"
       build_number = (latest_release[:buildVersion].to_i + 1).to_s
     end
+
+    # Get App name and app suffix
+    app_name = ENV["APP_NAME"]
+    app_suffix = ENV["APP_SUFFIX"]
+
+    # Build app apk
     flutter_build(
       build: 'apk',
       build_name: build_version,
       build_number: build_number,
+      build_args: ["--dart-define=APP_NAME=#{app_name}","--dart-define=APP_SUFFIX=#{app_suffix}"]
     )
+    
+    # flutter_build(
+    #   build: 'ipa',
+    #   build_name: build_version,
+    #   build_number: build_number,
+    # )
     upload_firebase_app_distribution
   end 
 
@@ -64,9 +80,22 @@ platform :android do
     )
   end
 
-  lane :get_changelog do
-    read_changelog(
-      changelog_path: ENV['CHANGELOG_PATH'],
-    )
+  # lane :get_changelog do
+  #   read_changelog(
+  #     changelog_path: ENV['CHANGELOG_PATH'],
+  #   )
+  #   update_changelog(
+  #     section_identifier: '[Unreleased]', 
+  #     updated_section_identifier: 'Build 321'
+  #   )
+  # end
+
+
+  lane :change_firebase_config_staging do
+    desc "Change firebase config environment staging"
+    sh("cat .env.staging > .env")
+    sh("cp #{ENV['GOOGLE_SERVICES_PATH']} #{ENV['GOOGLE_SERVICES_NEW_PATH']}")
+    sh("cp #{ENV['INFO_PLIST_PATH']} #{ENV['INFO_PLIST_NEW_PATH']}")
+    sh("cp #{ENV['GOOGLE_SERVICE_INFO_PATH']} #{ENV['GOOGLE_SERVICE_INFO_NEW_PATH']}")
   end
 end

@@ -5,12 +5,47 @@
     
     
       
-      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.000226">
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.000252">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="1: read_changelog" time="0.000531">
+      <testcase classname="fastlane.lanes" name="1: Switch to android change_firebase_config_staging lane" time="0.000129">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: cat .env.staging &gt; .env" time="0.008236">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: cp ../android/app/google-services_staging.json ../android/app/google-services.json" time="0.004233">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: cp ../ios/Runner/Info_staging.plist ../ios/Runner/Info.plist" time="0.003644">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: cp ../ios/Runner/GoogleService-Info_staging.plist ../ios/Runner/GoogleService-Info.plist" time="0.003753">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="6: Switch to android get_firebase_version_android lane" time="0.000134">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="7: firebase_app_distribution_get_latest_release" time="1.729076">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="8: flutter_build" time="3.795045">
         
       </testcase>
     
