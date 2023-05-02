@@ -1,8 +1,9 @@
-# Change Log
-All notable changes to this project will be documented in this file.
+#  (2023-05-02)
 
-## [Build 321] - 2023-04-16Z
 
-## [0.16.0] - 2021-03-13
-### Added:
-- Add new `:stamp_datetime_format` param stamp_changelog action to support custom a user provided date time format ([PR #53](https://github.com/pajapro/fastlane-plugin-changelog/pull/53))
+### Features
+
+* Add new feature ([e9a8e69](https://github.com/chihao10711/flutter_bloc_template/commit/e9a8e6983a77c0f91f43844d43e5c4ca09eed61b))
+
+
+
