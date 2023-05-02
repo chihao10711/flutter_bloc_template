@@ -80,15 +80,15 @@ platform :android do
     )
   end
 
-  # lane :get_changelog do
-  #   read_changelog(
-  #     changelog_path: ENV['CHANGELOG_PATH'],
-  #   )
-  #   update_changelog(
-  #     section_identifier: '[Unreleased]', 
-  #     updated_section_identifier: 'Build 321'
-  #   )
-  # end
+  lane :get_changelog do
+    read_changelog(
+      changelog_path: ENV['CHANGELOG_PATH'],
+    )
+    update_changelog(
+      section_identifier: '[Unreleased]', 
+      updated_section_identifier: 'Build 321'
+    )
+  end
 
 
   lane :change_firebase_config_staging do
@@ -97,5 +97,12 @@ platform :android do
     sh("cp #{ENV['GOOGLE_SERVICES_PATH']} #{ENV['GOOGLE_SERVICES_NEW_PATH']}")
     sh("cp #{ENV['INFO_PLIST_PATH']} #{ENV['INFO_PLIST_NEW_PATH']}")
     sh("cp #{ENV['GOOGLE_SERVICE_INFO_PATH']} #{ENV['GOOGLE_SERVICE_INFO_NEW_PATH']}")
+  end
+
+  lane :release do
+    changelog = get_changelog # your own method to retrieve the changelog content
+    # add_git_tag(tag: version, message: changelog)
+    # build_app
+    # upload_to_app_store
   end
 end
