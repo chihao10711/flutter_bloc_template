@@ -39,10 +39,26 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 
 
 
+### android get_changelog
+
+```sh
+[bundle exec] fastlane android get_changelog
+```
+
+
+
 ### android change_firebase_config_staging
 
 ```sh
 [bundle exec] fastlane android change_firebase_config_staging
+```
+
+
+
+### android release
+
+```sh
+[bundle exec] fastlane android release
 ```
 
 
