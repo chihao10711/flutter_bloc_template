@@ -1,0 +1,3582 @@
+[
+	{
+		"Aspect": [
+			1,
+			2,
+			3,
+			4
+		],
+		"AutoCompleteField": "Calluna vulgaris 'Wollmer's Weisse' (d)",
+		"AutoCompleteFieldList": [
+			"Calluna vulgaris 'Wollmer's Weisse' (d)"
+		],
+		"BotanicalName": "\u003cem\u003eCalluna\u003c/em\u003e \u003cem\u003evulgaris\u003c/em\u003e 'Wollmer's Weisse' (d)",
+		"BotanicalNameUnFormatted": "Calluna vulgaris 'Wollmer's Weisse' (d)",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 4
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 3
+			}
+		],
+		"CommonName": "heather 'Wollmer's Weisse'",
+		"CommonNameSortField": "heather 'Wollmer's Weisse'",
+		"CommonNames": null,
+		"Cultivation": "Grow in well-drained, acidic soil in full sun. See \u003ca href=\"https://www.rhs.org.uk/plants/types/heathers/growing-guide\"\u003eHardy heathers\u003c/a\u003e for further advice",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/honey-fungus\"\u003ehoney fungus\u003c/a\u003e (rarely) and other fungal diseases",
+		"EntityDescription": "A hardy, evergreen shrub with a compact, bushy habit approximately 21-25cm tall with a spread to 31-45cm.  It has dark green foliage and spikes of double white flowers in summer through to autumn.",
+		"Exposure": [
+			2,
+			1
+		],
+		"Family": "Ericaceae",
+		"Foliage": [
+			2
+		],
+		"Fragrance": "",
+		"Gbif": {
+			"ID": "2882482"
+		},
+		"Genus": "Calluna",
+		"GenusDescription": "Calluna are low-growing or dwarf evergreen shrubs with stems clothed in tiny overlapping leaves, and terminal, spike-like racemes of small, 4-petalled flowers with coloured calyces",
+		"Habit": [
+			1
+		],
+		"HardinessLevel": 9,
+		"HasFullProfile": true,
+		"Height": "0.1-0.5 metres",
+		"HeightType": [
+			2
+		],
+		"HortGroupDescription": "",
+		"ID": 102332,
+		"ImageCopyRight": "",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "",
+				"Image": ""
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": true,
+		"IsNative": false,
+		"IsPlantsForPollinators": true,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": [
+			"https://www.gbif.org/species/2882482",
+			"https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:327305-1",
+			"https://identify.plantnet.org/en/k-world-flora/species/Calluna%20vulgaris%20(L.)%20Hull/data"
+		],
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 0,
+		"PestResistance": "Generally pest-free",
+		"Ph": [
+			1
+		],
+		"PlantEntityID": "E0066539",
+		"PlantType": [
+			6
+		],
+		"PlantingPlaces": [
+			1,
+			3,
+			7
+		],
+		"Powo": {
+			"ID": "327305-1"
+		},
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/propagation/semi-ripe-cuttings\"\u003esemi-hardwood\u003c/a\u003e cuttings",
+		"Pruning": "\u003ca href=\"https://www.rhs.org.uk/plants/types/shrubs/evergreen-pruning-guide\"\u003ePruning group 10\u003c/a\u003e",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40014,
+			1006,
+			2006,
+			3006,
+			4006,
+			2014,
+			3014
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3,
+			4
+		],
+		"SoilType": [
+			2,
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			4,
+			7,
+			9,
+			3
+		],
+		"Sunlight": [
+			1
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			1,
+			3,
+			4
+		],
+		"AutoCompleteField": "Lilium pumilum (IXc/d)|coral lily|lipstick lily",
+		"AutoCompleteFieldList": [
+			"Lilium pumilum (IXc/d)",
+			"lipstick lily",
+			"Siberian coral lily",
+			"Tom Thumb lily"
+		],
+		"BotanicalName": "\u003cem\u003eLilium\u003c/em\u003e \u003cem\u003epumilum\u003c/em\u003e (IXc/d)",
+		"BotanicalNameUnFormatted": "Lilium pumilum (IXc/d)",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 8,
+				"Season": 2
+			}
+		],
+		"CommonName": "coral lily",
+		"CommonNameSortField": "coral lily",
+		"CommonNames": [
+			"lipstick lily",
+			"Siberian coral lily",
+			"Tom Thumb lily"
+		],
+		"Cultivation": "Plant bulbs in autumn, 15cm deep, in moist but well-drained soil enriched with leaf mould or well-rotted \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden\"\u003eorganic matter\u003c/a\u003e, in a sheltered position, with the base of the plant in shade, for example from ground-cover plants, and the rest of the plant in full sun; for more advice, see \u003ca href=\"https://www.rhs.org.uk/container-gardening/lilies\"\u003egrowing lilies\u003c/a\u003e in \u003ca href=\"https://www.rhs.org.uk/container-gardening/maintenance\"\u003econtainers\u003c/a\u003e",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/lily-diseases\"\u003elily disease\u003c/a\u003e, other fungal diseases, and virus diseases; for more advice, see \u003ca href=\"https://www.rhs.org.uk/disease/lily-diseases\"\u003elily diseases\u003c/a\u003e",
+		"EntityDescription": "A deciduous, bulbous, herbaceous perennial to around 60cm, with strap-like dark green leaves and small, fragrant, downward-facing, recurved orange flowers appearing earlier than other varieties from May through to the summer",
+		"Exposure": [
+			1
+		],
+		"Family": "Liliaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "Flower",
+		"Gbif": null,
+		"Genus": "Lilium",
+		"GenusDescription": "Lilium are bulbous perennials with erect stems bearing whorled or spirally arranged leaves and terminal racemes or umbels of bowl-shaped, trumpet-shaped, funnel-shaped or turks cap shaped flowers, often fragrant, and white, yellow, orange or red",
+		"Habit": [
+			4
+		],
+		"HardinessLevel": 8,
+		"HasFullProfile": true,
+		"Height": "0.5-1 metres",
+		"HeightType": [
+			3
+		],
+		"HortGroupDescription": "",
+		"ID": 10234,
+		"ImageCopyRight": "",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "visionspictures.com",
+				"Image": "visi160658.jpg"
+			},
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "visionspictures.com",
+				"Image": "elbo30194.jpg"
+			},
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "visionspictures.com",
+				"Image": "visi160660.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Correct",
+		"NotedForFragrance": true,
+		"NurseriesCount": 5,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/lily-beetle\"\u003elily beetle\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/slugs\"\u003eslugs\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/snails\"\u003esnails\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/thrips\"\u003eThrips\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/leatherjackets\"\u003eleatherjackets\u003c/a\u003e, and wireworms, and to damage by \u003ca href=\"https://www.rhs.org.uk/biodiversity/rabbits\"\u003erabbits\u003c/a\u003e and voles; plants in containers may be affected by \u003ca href=\"https://www.rhs.org.uk/biodiversity/vine-weevil\"\u003evine weevil\u003c/a\u003e",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "E0006921",
+		"PlantType": [
+			4,
+			1
+		],
+		"PlantingPlaces": [
+			2,
+			3,
+			7
+		],
+		"Powo": null,
+		"Propagation": "Propagate by division: separate offsets after the leaves have died down",
+		"Pruning": "No pruning required, but \u003ca href=\"https://www.rhs.org.uk/garden-jobs/deadheading-plants\"\u003edeadheading\u003c/a\u003e will improve their appearance",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40008,
+			1006,
+			2006,
+			3006,
+			2008
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			1,
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			2,
+			4,
+			7
+		],
+		"Sunlight": [
+			1,
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [
+			{
+				"ID": 23037,
+				"Name": "\u003cem\u003eLilium\u003c/em\u003e \u003cem\u003etenuifolium\u003c/em\u003e"
+			}
+		],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			3,
+			1
+		],
+		"AutoCompleteField": "Dahlia 'White Ballet' (D)",
+		"AutoCompleteFieldList": [
+			"Dahlia 'White Ballet' (D)"
+		],
+		"BotanicalName": "\u003cem\u003eDahlia\u003c/em\u003e 'White Ballet' (D)",
+		"BotanicalNameUnFormatted": "Dahlia 'White Ballet' (D)",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 3
+			}
+		],
+		"CommonName": "dahlia 'White Ballet'",
+		"CommonNameSortField": "dahlia 'White Ballet'",
+		"CommonNames": null,
+		"Cultivation": "Grow in fertile, humus-rich, well-drained soil, enriched with \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden\"\u003eorganic matter\u003c/a\u003e and general purpose fertiliser, in full sun. Pinch out growing tips to encourage bushy plants and stake.  Water freely in dry periods. Lift and store tubers in autumn to replant or use as a source of cuttings in spring",
+		"DiseaseResistance": "\u003ca href=\"https://www.rhs.org.uk/disease/powdery-mildews\"\u003ePowdery mildews\u003c/a\u003e can be damaging in dry conditions.  In wet weather \u003ca href=\"https://www.rhs.org.uk/disease/grey-mould\"\u003egrey moulds\u003c/a\u003e and other fungal rots can be a problem. Fungal rots can also damage stored tubers.  \u003ca href=\"https://www.rhs.org.uk/disease/plant-viruses\"\u003eA virus\u003c/a\u003e may cause stunting, leaf markings and distortion",
+		"EntityDescription": "Grows to 90cm in height, with white, double flowers 12cm in width, with rather broad, overlapping florets",
+		"Exposure": [
+			1
+		],
+		"Family": "Asteraceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": null,
+		"Genus": "Dahlia",
+		"GenusDescription": "Dahlia are tuberous rooted perennials with pinnately divided leaves and showy flowerheads, double in many cultivars, in summer and autumn",
+		"Habit": [
+			3
+		],
+		"HardinessLevel": 5,
+		"HasFullProfile": true,
+		"Height": "0.5-1 metres",
+		"HeightType": [
+			3
+		],
+		"HortGroupDescription": "Decorative dahlias have fully double flowerheads with flat or slightly incurved florets",
+		"ID": 102345,
+		"ImageCopyRight": "[www.gardenworldimages.com]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "www.gardenworldimages.com",
+				"Image": "WSY0008580_3252.jpg"
+			}
+		],
+		"IsAgm": true,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 2,
+		"PestResistance": "\u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eAphids\u003c/a\u003e, leaf miners, \u003ca href=\"https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite\"\u003eglasshouse red spider mite\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/slugs\"\u003eslugs\u003c/a\u003e are common pests.  \u003ca href=\"https://www.rhs.org.uk/biodiversity/earwigs\"\u003eEarwigs\u003c/a\u003e sometimes damage blooms.  \u003ca href=\"https://www.rhs.org.uk/biodiversity/capsid-bugs\"\u003eCapsid bug\u003c/a\u003e and caterpillars are occasional pests",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "2684",
+		"PlantType": [
+			1,
+			3
+		],
+		"PlantingPlaces": [
+			2,
+			7,
+			3
+		],
+		"Powo": null,
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/propagation/softwood-cuttings\"\u003esoftwood\u003c/a\u003e cuttings taken in spring from shoots from stored tubers, or \u003ca href=\"https://www.rhs.org.uk/plants/types/perennials/dividing\"\u003edivide\u003c/a\u003e the tubers ensuring each \u003ca href=\"https://www.rhs.org.uk/plants/types/perennials/dividing\"\u003edivision\u003c/a\u003e has a viable bud",
+		"Pruning": "\u003ca href=\"https://www.rhs.org.uk/garden-jobs/deadheading-plants\"\u003eDeadhead\u003c/a\u003e to prolong flowering.  Cut back to near ground level in the autumn, before lifting and storing for the winter",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40014,
+			2006,
+			3006,
+			2014,
+			3014
+		],
+		"SeasonOfInterest": [
+			2,
+			3
+		],
+		"SoilType": [
+			2,
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			2,
+			4,
+			7
+		],
+		"Sunlight": [
+			1
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			2
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			1,
+			3,
+			4
+		],
+		"AutoCompleteField": "Salvia farinacea 'White Victory'",
+		"AutoCompleteFieldList": [
+			"Salvia farinacea 'White Victory'"
+		],
+		"BotanicalName": "\u003cem\u003eSalvia\u003c/em\u003e \u003cem\u003efarinacea\u003c/em\u003e 'White Victory'",
+		"BotanicalNameUnFormatted": "Salvia farinacea 'White Victory'",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 3
+			}
+		],
+		"CommonName": "",
+		"CommonNameSortField": "",
+		"CommonNames": null,
+		"Cultivation": "Will grow well in soils that are moderately fertile and moist but well-drained preferably in full sun but will tolerate some shade. Once the plant is established it will require less watering.",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/honey-fungus\"\u003ehoney fungus\u003c/a\u003e (rarely), \u003ca href=\"https://www.rhs.org.uk/disease/powdery-mildews\"\u003epowdery mildews\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/disease/verticillium-wilt\"\u003everticillium wilt\u003c/a\u003e and foot and root rots",
+		"EntityDescription": "An upright perennial grown as an annual, with lance-shaped silvery green foliage, hairy on the reverse, and slender racemes of small white lipped flowers in summer and autumn.",
+		"Exposure": [
+			2,
+			1
+		],
+		"Family": "Lamiaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": {
+			"ID": "2927064"
+		},
+		"Genus": "Salvia",
+		"GenusDescription": "Salvia can be annuals, biennials, herbaceous or evergreen perennials, or shrubs. They have paired, simple or pinnately lobed, often aromatic leaves and 2-lipped flowers in whorls, forming simple or branched spikes or racemes",
+		"Habit": [
+			4
+		],
+		"HardinessLevel": 5,
+		"HasFullProfile": true,
+		"Height": "0.1-0.5 metres",
+		"HeightType": [
+			2
+		],
+		"HortGroupDescription": "",
+		"ID": 102349,
+		"ImageCopyRight": "",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "",
+				"Image": ""
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": true,
+		"IsNative": false,
+		"IsPlantsForPollinators": true,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": [
+			"https://www.gbif.org/species/2927064",
+			"https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:456204-1",
+			"https://identify.plantnet.org/en/k-world-flora/species/Salvia%20farinacea%20Benth./data"
+		],
+		"Moisture": [
+			3,
+			1
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 0,
+		"PestResistance": "Generally pest-free",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "E0066547",
+		"PlantType": [
+			1
+		],
+		"PlantingPlaces": [
+			3,
+			7
+		],
+		"Powo": {
+			"ID": "456204-1"
+		},
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/plants/types/perennials/dividing\"\u003edivision\u003c/a\u003e in spring and by \u003ca href=\"https://www.rhs.org.uk/propagation/semi-ripe-cuttings\"\u003esemi-ripe\u003c/a\u003e cuttings in summer",
+		"Pruning": "Cut back flower spikes to prolong flowering",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40014,
+			1006,
+			2006,
+			3006,
+			2014,
+			3014
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			2,
+			4,
+			6,
+			11,
+			7
+		],
+		"Sunlight": [
+			1,
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			2
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			1,
+			3,
+			4
+		],
+		"AutoCompleteField": "Lilium pyrenaicum (IXc/d)|Pyrenean lily|yellow Turk's cap lily",
+		"AutoCompleteFieldList": [
+			"Lilium pyrenaicum (IXc/d)",
+			"yellow Turk's cap lily"
+		],
+		"BotanicalName": "\u003cem\u003eLilium\u003c/em\u003e \u003cem\u003epyrenaicum\u003c/em\u003e (IXc/d)",
+		"BotanicalNameUnFormatted": "Lilium pyrenaicum (IXc/d)",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 1
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 2
+			}
+		],
+		"CommonName": "Pyrenean lily",
+		"CommonNameSortField": "Pyrenean lily",
+		"CommonNames": [
+			"yellow Turk's cap lily"
+		],
+		"Cultivation": "Plant bulbs in autumn, 15cm deep, in moist but well-drained soil enriched with leaf mould or well-rotted \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden\"\u003eorganic matter\u003c/a\u003e, in a sheltered position, with the base of the plant in shade, for example from ground-cover plants, and the rest of the plant in full sun; for more advice, see \u003ca href=\"https://www.rhs.org.uk/container-gardening/lilies\"\u003egrowing lilies\u003c/a\u003e in \u003ca href=\"https://www.rhs.org.uk/container-gardening/maintenance\"\u003econtainers\u003c/a\u003e",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/lily-diseases\"\u003elily disease\u003c/a\u003e, other fungal diseases, and virus diseases; for more advice, see \u003ca href=\"https://www.rhs.org.uk/disease/lily-diseases\"\u003elily diseases\u003c/a\u003e",
+		"EntityDescription": "A deciduous, bulbous perennial, one of few lillies which has become naturalised in the UK and can be seen growing in the hedgrows in North Devon and the Lake District.  It has strap-like dark green leaves and nodding, yellow flowers with dark red speckles.  Flowers are downward and recurved, appearing early in the season, sometimes at the end of May",
+		"Exposure": [
+			1
+		],
+		"Family": "Liliaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": {
+			"ID": "2753026"
+		},
+		"Genus": "Lilium",
+		"GenusDescription": "Lilium are bulbous perennials with erect stems bearing whorled or spirally arranged leaves and terminal racemes or umbels of bowl-shaped, trumpet-shaped, funnel-shaped or turks cap shaped flowers, often fragrant, and white, yellow, orange or red",
+		"Habit": [
+			4
+		],
+		"HardinessLevel": 8,
+		"HasFullProfile": true,
+		"Height": "1-1.5 metres",
+		"HeightType": [
+			4
+		],
+		"HortGroupDescription": "",
+		"ID": 10235,
+		"ImageCopyRight": "",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "visionspictures.com",
+				"Image": "sepa09773.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": [
+			"https://www.gbif.org/species/2753026",
+			"https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:537763-1",
+			"https://identify.plantnet.org/en/k-world-flora/species/Lilium%20pyrenaicum%20Gouan/data"
+		],
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Correct",
+		"NotedForFragrance": false,
+		"NurseriesCount": 3,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/lily-beetle\"\u003elily beetle\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/slugs\"\u003eslugs\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/snails\"\u003esnails\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/thrips\"\u003eThrips\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/leatherjackets\"\u003eleatherjackets\u003c/a\u003e, and wireworms, and to damage by \u003ca href=\"https://www.rhs.org.uk/biodiversity/rabbits\"\u003erabbits\u003c/a\u003e and voles; plants in containers may be affected by \u003ca href=\"https://www.rhs.org.uk/biodiversity/vine-weevil\"\u003evine weevil\u003c/a\u003e",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "E0006922",
+		"PlantType": [
+			4,
+			1
+		],
+		"PlantingPlaces": [
+			2,
+			3,
+			7
+		],
+		"Powo": {
+			"ID": "537763-1"
+		},
+		"Propagation": "Propagate by division: separate offsets after the leaves have died down",
+		"Pruning": "No pruning required, but \u003ca href=\"https://www.rhs.org.uk/garden-jobs/deadheading-plants\"\u003edeadheading\u003c/a\u003e will improve their appearance",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40015,
+			1006,
+			2006,
+			3006,
+			1015,
+			2015
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			1,
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			2,
+			4,
+			7
+		],
+		"Sunlight": [
+			1,
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [
+			{
+				"ID": 271782,
+				"Name": "\u003cem\u003eLilium\u003c/em\u003e \u003cem\u003epyrenaicum\u003c/em\u003e subsp. \u003cem\u003epyrenaicum\u003c/em\u003e 'Gaun'"
+			}
+		],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			3,
+			1
+		],
+		"AutoCompleteField": "Iris 'Sherbet Lemon' (IB)",
+		"AutoCompleteFieldList": [
+			"Iris 'Sherbet Lemon' (IB)"
+		],
+		"BotanicalName": "\u003cem\u003eIris\u003c/em\u003e 'Sherbet Lemon' (IB)",
+		"BotanicalNameUnFormatted": "Iris 'Sherbet Lemon' (IB)",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 15,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 15,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 1
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 2
+			}
+		],
+		"CommonName": "iris 'Sherbet Lemon'",
+		"CommonNameSortField": "iris 'Sherbet Lemon'",
+		"CommonNames": null,
+		"Cultivation": "Grow in well-drained, fertile, neutral to slightly acid loam in full sun",
+		"DiseaseResistance": "May be subject to iris rhizome rot, a leaf spot and \u003ca href=\"https://www.rhs.org.uk/disease/plant-viruses\"\u003ea virus\u003c/a\u003e",
+		"EntityDescription": "'Sherbet Lemon' is a vigorous perennial with yellowish-green leaves and stems to 45cm, bearing up to 4 flowers, the standards and falls very pale yellow with greenish-yellow veining, the falls with an orange beard",
+		"Exposure": [
+			2,
+			1
+		],
+		"Family": "Iridaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": null,
+		"Genus": "Iris",
+		"GenusDescription": "Iris may be rhizomatous or bulbous perennials, with narrow leaves and erect stems bearing flowers with 3 large spreading or pendent fall petals, alternating with 3 erect, often smaller, standard petals, in late winter, spring or early summer",
+		"Habit": [
+			3
+		],
+		"HardinessLevel": 9,
+		"HasFullProfile": true,
+		"Height": "0.1-0.5 metres",
+		"HeightType": [
+			2
+		],
+		"HortGroupDescription": "Intermediate Bearded irises are deciduous rhizomatous perennials, growing between 40 and 70cm tall, with sword-shaped light glaucous green leaves and erect stems bearing flowers 10-13cm across, bearded on the falls, in late spring and early summer",
+		"ID": 102350,
+		"ImageCopyRight": "[RHS 1995]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS 1995",
+				"Image": "WSY0007800_8046.jpg"
+			}
+		],
+		"IsAgm": true,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			1
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 0,
+		"PestResistance": "May be attacked by \u003ca href=\"https://www.rhs.org.uk/biodiversity/slugs\"\u003eslugs\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/snails\"\u003esnails\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/thrips\"\u003ethrips\u003c/a\u003e",
+		"Ph": [
+			1,
+			3
+		],
+		"PlantEntityID": "3248",
+		"PlantType": [
+			1
+		],
+		"PlantingPlaces": [
+			3,
+			8
+		],
+		"Powo": null,
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/plants/types/perennials/dividing\"\u003edivision\u003c/a\u003e of rhizomes from midsummer to early autumn",
+		"Pruning": "Remove any dying foliage in autumn, old flower stems can be cut down after flowering",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			10015,
+			40015,
+			1006,
+			1015,
+			2006,
+			2015
+		],
+		"SeasonOfInterest": [
+			1,
+			2
+		],
+		"SoilType": [
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			2,
+			3,
+			4
+		],
+		"Sunlight": [
+			1
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": [
+			"Ingestion may cause severe discomfort. Wear gloves and other protective equipment when handling"
+		]
+	},
+	{
+		"Aspect": [
+			3,
+			4
+		],
+		"AutoCompleteField": "Chrysanthemum 'Vibrant' (9c)|Dendranthema 'Vibrant'",
+		"AutoCompleteFieldList": [
+			"Chrysanthemum 'Vibrant' (9c)"
+		],
+		"BotanicalName": "\u003cem\u003eDendranthema\u003c/em\u003e 'Vibrant'",
+		"BotanicalNameUnFormatted": "Dendranthema 'Vibrant'",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 3
+			}
+		],
+		"CommonName": "chrysanthemum 'Vibrant'",
+		"CommonNameSortField": "chrysanthemum 'Vibrant'",
+		"CommonNames": null,
+		"Cultivation": "Grow in a cold frame in a loam-based potting compost and move into a warm glasshouse in early autumn. Provide bright filtered light with good ventilation and a minimum temperature of 10°C. During the growing season water moderately and apply a balanced liquid fertiliser weekly",
+		"DiseaseResistance": "May be susceptible to glasshouse grey mould, \u003ca href=\"https://www.rhs.org.uk/disease/powdery-mildews\"\u003epowdery mildews\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/disease/chrysanthemum-white-rust\"\u003echrysanthemum white rust\u003c/a\u003e",
+		"EntityDescription": "grows to 1.2m, and has sprays of bright yellow flowers in autumn",
+		"Exposure": [
+			1
+		],
+		"Family": "Asteraceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": null,
+		"Genus": "Chrysanthemum",
+		"GenusDescription": "Chrysanthemum are erect woody-based perennials with aromatic, pinnately lobed leaves and flowerheads of diverse form, from late summer to late autumn",
+		"Habit": [
+			1
+		],
+		"HardinessLevel": 4,
+		"HasFullProfile": true,
+		"Height": "1-1.5 metres",
+		"HeightType": [
+			4
+		],
+		"HortGroupDescription": "Reflexed Indoor Spray chrysanthemums have branched stems bearing several fully double flowerheads with recurved florets",
+		"ID": 102355,
+		"ImageCopyRight": "[RHS]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS",
+				"Image": "WSY0094174_5074.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": true,
+		"Links": null,
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 0,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/foliar-nematodes\"\u003eleaf and bud eelworms\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/glasshouse-whitefly\"\u003eglasshouse whitefly\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite\"\u003eglasshouse red spider mite\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/capsid-bugs\"\u003ecapsid bug\u003c/a\u003e",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "5074",
+		"PlantType": [
+			11,
+			1
+		],
+		"PlantingPlaces": [
+			1,
+			7,
+			3
+		],
+		"Powo": null,
+		"Propagation": "Propagate by rooting \u003ca href=\"https://www.rhs.org.uk/propagation/softwood-cuttings\"\u003esoftwood\u003c/a\u003e cuttings in loam-less potting compost at 16°C",
+		"Pruning": "Pinch out growing tips and disbud as required",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40015,
+			1006,
+			2006,
+			3006,
+			3015
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			3
+		],
+		"Spread": "0.5-1 metres",
+		"SpreadType": [
+			3
+		],
+		"SuggestedPlantUses": [
+			2,
+			3,
+			7,
+			4
+		],
+		"Sunlight": [
+			1
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 122522,
+		"SynonymParentPlantName": "\u003cem\u003eChrysanthemum\u003c/em\u003e 'Vibrant' (9c)",
+		"Synonyms": [
+			{
+				"ID": 102355,
+				"Name": "\u003cem\u003eDendranthema\u003c/em\u003e 'Vibrant'"
+			}
+		],
+		"TimeToFullHeight": [
+			2
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			1,
+			2,
+			4
+		],
+		"AutoCompleteField": "Hydrangea macrophylla 'Alpenglühen' (H)|Hydrangea macrophylla 'Alpen Glow'",
+		"AutoCompleteFieldList": [
+			"Hydrangea macrophylla 'Alpenglühen' (H)"
+		],
+		"BotanicalName": "\u003cem\u003eHydrangea\u003c/em\u003e \u003cem\u003emacrophylla\u003c/em\u003e 'Alpen Glow'",
+		"BotanicalNameUnFormatted": "Hydrangea macrophylla 'Alpen Glow'",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 9,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 11,
+				"Season": 2
+			}
+		],
+		"CommonName": "hydrangea 'Alpenglühen'",
+		"CommonNameSortField": "hydrangea 'Alpenglühen'",
+		"CommonNames": null,
+		"Cultivation": "Grow in moist but well-drained, humus rich soil, in a lightly shaded spot. Pink flower colours are best maintained by growing in slightly alkaline soil, though this cultivar has some resistance to blueing in mildly acidic soils. \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/mulch\"\u003eMulch\u003c/a\u003e annually in spring. See \u003ca href=\"https://www.rhs.org.uk/plants/hydrangea/shrubby/growing-guide\"\u003eshrubby hydrangea cultivation\u003c/a\u003e for more detailed advice",
+		"DiseaseResistance": "May be susceptible to a leaf spot, \u003ca href=\"https://www.rhs.org.uk/disease/powdery-mildews\"\u003epowdery mildews\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/disease/grey-mould\"\u003egrey moulds\u003c/a\u003e (Botrytis) and \u003ca href=\"https://www.rhs.org.uk/disease/honey-fungus\"\u003ehoney fungus\u003c/a\u003e (rarely)",
+		"EntityDescription": "A deciduous shrub to 1.2m high with broadly oval, toothed, glossy green leaves. Dome-shaped clusters of flowers are produced from mid to late summer; in the right soil these develop from bright green through deep pink to near red as the season progresses",
+		"Exposure": [
+			1,
+			2
+		],
+		"Family": "Hydrangeaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": {
+			"ID": "2985994"
+		},
+		"Genus": "Hydrangea",
+		"GenusDescription": "Hydrangea can be deciduous or evergreen shrubs, or self-clinging climbers, with flowers in clusters usually comprising both small fertile and more showy sterile flowers; often good autumn colour",
+		"Habit": [
+			1
+		],
+		"HardinessLevel": 7,
+		"HasFullProfile": true,
+		"Height": "1-1.5 metres",
+		"HeightType": [
+			4
+		],
+		"HortGroupDescription": "Hortensia hydrangeas (also known as mopheads) are compact bushy deciduous shrubs with broadly ovate leaves and rounded flower clusters composed almost entirely of showy sterile flowers",
+		"ID": 102356,
+		"ImageCopyRight": "",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "",
+				"Image": ""
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": true,
+		"Links": [
+			"https://www.gbif.org/species/2985994",
+			"https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:791637-1",
+			"https://identify.plantnet.org/en/k-world-flora/species/Hydrangea%20macrophylla%20(Thunb.)%20Ser./data"
+		],
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 3,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/capsid-bugs\"\u003ecapsid bug\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite\"\u003ered spider mite\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/stem-and-bulb-nematode\"\u003estem and bulb eelworm\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/vine-weevil\"\u003evine weevil\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/scale-insects\"\u003escale insects\u003c/a\u003e",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "E0075162",
+		"PlantType": [
+			6
+		],
+		"PlantingPlaces": [
+			3,
+			7,
+			8,
+			2
+		],
+		"Powo": {
+			"ID": "791637-1"
+		},
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/propagation/softwood-cuttings\"\u003esoftwood\u003c/a\u003e cuttings in early summer, or by \u003ca href=\"https://www.rhs.org.uk/propagation/hardwood-cuttings\"\u003ehardwood\u003c/a\u003e cuttings in winter",
+		"Pruning": "See \u003ca href=\"https://www.rhs.org.uk/plants/hydrangea/pruning-guide\"\u003epruning group 4\u003c/a\u003e (hydrangeas)",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40009,
+			40011,
+			1006,
+			2006,
+			3006,
+			2009,
+			2011
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			2,
+			3
+		],
+		"Spread": "1-1.5 metres",
+		"SpreadType": [
+			4
+		],
+		"SuggestedPlantUses": [
+			2,
+			4,
+			7,
+			3
+		],
+		"Sunlight": [
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 114550,
+		"SynonymParentPlantName": "\u003cem\u003eHydrangea\u003c/em\u003e \u003cem\u003emacrophylla\u003c/em\u003e 'Alpenglühen' (H)",
+		"Synonyms": [
+			{
+				"ID": 102356,
+				"Name": "\u003cem\u003eHydrangea\u003c/em\u003e \u003cem\u003emacrophylla\u003c/em\u003e 'Alpen Glow'"
+			},
+			{
+				"ID": 55717,
+				"Name": "\u003cem\u003eHydrangea\u003c/em\u003e \u003cem\u003emacrophylla\u003c/em\u003e \u003cspan style\"font-variant: small-caps;\"\u003eAlpen Glow\u003c/span\u003e"
+			}
+		],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": [
+			"Skin allergen.  Wear gloves and other protective equipment when handling"
+		]
+	},
+	{
+		"Aspect": [
+			4,
+			1,
+			3
+		],
+		"AutoCompleteField": "Alstroemeria 'Solent Crest'",
+		"AutoCompleteFieldList": [
+			"Alstroemeria 'Solent Crest'"
+		],
+		"BotanicalName": "\u003cem\u003eAlstroemeria\u003c/em\u003e 'Solent Crest'",
+		"BotanicalNameUnFormatted": "Alstroemeria 'Solent Crest'",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 10,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 10,
+				"Season": 3
+			}
+		],
+		"CommonName": "Peruvian lily 'Solent Crest'",
+		"CommonNameSortField": "Peruvian lily 'Solent Crest'",
+		"CommonNames": null,
+		"Cultivation": "Grow in fertile, moist but well-drained soils in full sun or partial shade. Young plants are best left undisturbed to form clumps; use a dry \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/mulch\"\u003emulch\u003c/a\u003e for the first two winters. See \u003ca href=\"https://www.rhs.org.uk/plants/alstroemeria/growing-guide\"\u003eAlstroemeria cultivation\u003c/a\u003e",
+		"DiseaseResistance": "Generally disease-free but may be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/plant-viruses\"\u003ea virus\u003c/a\u003e",
+		"EntityDescription": "Clump-forming perennial about 90cm tall, with lance-shaped mid-green leaves, and bearing large clusters of greenish-white flowers, the outer petals with a central deep purple blotch, the inner ones with a brown-flecked yellow flush in the throat",
+		"Exposure": [
+			1
+		],
+		"Family": "Alstroemeriaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": null,
+		"Genus": "Alstroemeria",
+		"GenusDescription": "Alstroemeria are fleshy rooted herbaceous perennials forming spreading clumps of erect stems bearing narrowly lance-shaped leaves, with umbels of showy funnel-shaped flowers in summer",
+		"Habit": [
+			3
+		],
+		"HardinessLevel": 6,
+		"HasFullProfile": true,
+		"Height": "0.5-1 metres",
+		"HeightType": [
+			3
+		],
+		"HortGroupDescription": "",
+		"ID": 102358,
+		"ImageCopyRight": "[RHS 1999]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS 1999",
+				"Image": "WSY0008757_5270.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 0,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/slugs\"\u003eslugs\u003c/a\u003e",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "5270",
+		"PlantType": [
+			1
+		],
+		"PlantingPlaces": [
+			3,
+			2,
+			7
+		],
+		"Powo": null,
+		"Propagation": "Propagate  by \u003ca href=\"https://www.rhs.org.uk/plants/types/perennials/dividing\"\u003edivision\u003c/a\u003e in autumn or very early spring",
+		"Pruning": "Pull up spent flowered stems, leaving tubers in ground",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40014,
+			40006,
+			40010,
+			1006,
+			2006,
+			3006,
+			2014,
+			2010,
+			3014,
+			3010
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			1,
+			2,
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			4,
+			2,
+			7
+		],
+		"Sunlight": [
+			1,
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": [
+			"Contact with foliage may cause skin allergies. Wear gloves and other protective equipment when handling"
+		]
+	},
+	{
+		"Aspect": [
+			3,
+			4
+		],
+		"AutoCompleteField": "Pittosporum tobira 'Variegatum' (v)|Pittosporum 'Nanum Variegatum'",
+		"AutoCompleteFieldList": [
+			"Pittosporum tobira 'Variegatum' (v)"
+		],
+		"BotanicalName": "\u003cem\u003ePittosporum\u003c/em\u003e 'Nanum Variegatum'",
+		"BotanicalNameUnFormatted": "Pittosporum 'Nanum Variegatum'",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 14,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 14,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 14,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 4
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 14,
+				"Season": 4
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 1
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 1
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 2
+			}
+		],
+		"CommonName": "variegated Japanese pittosporum",
+		"CommonNameSortField": "variegated Japanese pittosporum",
+		"CommonNames": null,
+		"Cultivation": "Grow outdoors in moist but well-drained soil in full sun.  Protect from cold drying winds.  Grow under glass in loam-based compost in full light",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/powdery-mildews\"\u003epowdery mildews\u003c/a\u003e, leafspot and \u003ca href=\"https://www.rhs.org.uk/disease/honey-fungus\"\u003ehoney fungus\u003c/a\u003e (rarely)",
+		"EntityDescription": "A slow-growing medium-sized evergreen shrub of dense, rounded habit. Leaves obovate, dark green with creamy-white margins. Small, sweetly-scented white flowers in late spring and early summer turn yellow with age",
+		"Exposure": [
+			1
+		],
+		"Family": "Pittosporaceae",
+		"Foliage": [
+			2
+		],
+		"Fragrance": "Flower",
+		"Gbif": null,
+		"Genus": "Pittosporum",
+		"GenusDescription": "Pittosporum are evergreen shrubs or trees with simple, leathery leaves and small, often fragrant, 5-petalled flowers, followed by spherical, woody fruits splitting to reveal seeds embedded in sticky pulp",
+		"Habit": [
+			1
+		],
+		"HardinessLevel": 4,
+		"HasFullProfile": true,
+		"Height": "1.5-2.5 metres",
+		"HeightType": [
+			5
+		],
+		"HortGroupDescription": "",
+		"ID": 102364,
+		"ImageCopyRight": "[RHS]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS",
+				"Image": "WSYD0001704_5582.jpg"
+			}
+		],
+		"IsAgm": true,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": true,
+		"Links": null,
+		"Moisture": [
+			3,
+			1
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": true,
+		"NurseriesCount": 9,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite\"\u003eglasshouse red spider mite\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/cushion-scale\"\u003ecushion scale\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/pittosporum-sucker\"\u003epittosporum sucker\u003c/a\u003e",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "5582",
+		"PlantType": [
+			14,
+			6
+		],
+		"PlantingPlaces": [
+			3,
+			8
+		],
+		"Powo": null,
+		"Propagation": "\u003ca href=\"https://www.rhs.org.uk/propagation/sowing-seed-outdoors\"\u003ePropagate by seed\u003c/a\u003e or \u003ca href=\"https://www.rhs.org.uk/propagation/semi-ripe-cuttings\"\u003esemi-hardwood\u003c/a\u003e cuttings",
+		"Pruning": "\u003ca href=\"https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning\"\u003ePruning group 1\u003c/a\u003e",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			10014,
+			40014,
+			40015,
+			1006,
+			1014,
+			2006,
+			2014,
+			3006,
+			3014,
+			4006,
+			4014,
+			1015,
+			2015
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3,
+			4
+		],
+		"SoilType": [
+			1,
+			3,
+			4
+		],
+		"Spread": "1.5-2.5 metres",
+		"SpreadType": [
+			5
+		],
+		"SuggestedPlantUses": [
+			3,
+			4,
+			2
+		],
+		"Sunlight": [
+			1,
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 92045,
+		"SynonymParentPlantName": "\u003cem\u003ePittosporum\u003c/em\u003e \u003cem\u003etobira\u003c/em\u003e 'Variegatum' (v)",
+		"Synonyms": [
+			{
+				"ID": 102364,
+				"Name": "\u003cem\u003ePittosporum\u003c/em\u003e 'Nanum Variegatum'"
+			}
+		],
+		"TimeToFullHeight": [
+			5
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			3,
+			4
+		],
+		"AutoCompleteField": "Rosa Chilterns ('Kortemma') (GC)",
+		"AutoCompleteFieldList": [
+			"Rosa Chilterns ('Kortemma') (GC)"
+		],
+		"BotanicalName": "\u003cem\u003eRosa\u003c/em\u003e \u003cspan style=\"font-variant: small-caps;\"\u003eChilterns\u003c/span\u003e ('Kortemma') (GC)",
+		"BotanicalNameUnFormatted": "Rosa Chilterns ('Kortemma') (GC)",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 11,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 11,
+				"Season": 3
+			}
+		],
+		"CommonName": "rose [Chilterns]",
+		"CommonNameSortField": "rose [Chilterns]",
+		"CommonNames": null,
+		"Cultivation": "Grow in fertile, humus-rich, moist but well-drained soil in full sun. \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/mulch\"\u003eMulch\u003c/a\u003e with well-rotted \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden\"\u003eorganic matter\u003c/a\u003e in late winter or early spring, and for best flowering apply a general rose or shrub fertiliser in early spring and again in early summer. See \u003ca href=\"https://www.rhs.org.uk/plants/roses/growing-guide\"\u003erose cultivation\u003c/a\u003e",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/rose-black-spot\"\u003erose black spot\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/disease/rose-rust\"\u003erose rust\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/prevention-protection/replant-disease\"\u003ereplant disease\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/problems/rose-dieback\"\u003erose dieback\u003c/a\u003e, and \u003ca href=\"https://www.rhs.org.uk/disease/rose-powdery-mildew\"\u003erose powdery mildew\u003c/a\u003e. May also be susceptible to disorders \u003ca href=\"https://www.rhs.org.uk/problems/rose-blindness\"\u003erose blindness\u003c/a\u003e and flower balling and sometimes \u003ca href=\"https://www.rhs.org.uk/disease/honey-fungus\"\u003ehoney fungus\u003c/a\u003e",
+		"EntityDescription": "Spreading rose about 1m tall and 2m wide, with healthy, semi-glossy mid-green leaves. Small clusters of lightly scented, semi-double, crimson-red blooms open to show golden-yellow stamens, with profuse flowering repeatedly through summer and autumn",
+		"Exposure": [
+			1
+		],
+		"Family": "Rosaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "Flower",
+		"Gbif": null,
+		"Genus": "Rosa",
+		"GenusDescription": "Rosa can be deciduous or semi-evergreen shrubs or scrambling climbers, with usually thorny stems bearing compound pinnate leaves and solitary or clustered flowers. Flowers may be followed by showy red or purple fruits in some varieties.",
+		"Habit": null,
+		"HardinessLevel": 8,
+		"HasFullProfile": true,
+		"Height": "",
+		"HeightType": [
+			3
+		],
+		"HortGroupDescription": "Ground Cover roses are low, spreading shrubs with small, glossy leaves and clusters of single or double, occasionally slightly fragrant, flowers in summer, usually repeat-flowering",
+		"ID": 102369,
+		"ImageCopyRight": "",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "visionspictures.com",
+				"Image": "visi08649.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			3,
+			1
+		],
+		"NameStatus": "Trade",
+		"NotedForFragrance": true,
+		"NurseriesCount": 0,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/rose-leafhopper\"\u003erose leafhopper\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite\"\u003eglasshouse red spider mite\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/scale-insects\"\u003escale insects\u003c/a\u003e, caterpillars, \u003ca href=\"https://www.rhs.org.uk/biodiversity/large-rose-sawfly\"\u003elarge rose sawfly\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/rose-slug-sawfly-or-slugworm\"\u003erose slugworm sawfly\u003c/a\u003e and rose leaf-rolling sawfly. \u003ca href=\"https://www.rhs.org.uk/biodiversity/deer\"\u003eDeer\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/rabbits\"\u003erabbits\u003c/a\u003e can cause damage",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "E0066556",
+		"PlantType": [
+			9
+		],
+		"PlantingPlaces": [
+			2,
+			3,
+			5
+		],
+		"Powo": null,
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/propagation/hardwood-cuttings\"\u003ehardwood\u003c/a\u003e cuttings in autumn, \u003ca href=\"https://www.rhs.org.uk/propagation/softwood-cuttings\"\u003esoftwood\u003c/a\u003e cuttings (under glass) in spring or summer or by \u003ca href=\"https://www.rhs.org.uk/propagation/chip-budding\"\u003echip budding\u003c/a\u003e in summer",
+		"Pruning": "See \u003ca href=\"https://www.rhs.org.uk/plants/roses/ground-cover/pruning-guide\"\u003epruning group 19\u003c/a\u003e (groundcover roses)",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40011,
+			1006,
+			2006,
+			3006,
+			2011,
+			3011
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			1,
+			2,
+			3,
+			4
+		],
+		"Spread": "",
+		"SpreadType": [
+			5
+		],
+		"SuggestedPlantUses": [
+			2,
+			4
+		],
+		"Sunlight": [
+			1
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [
+			{
+				"ID": 125680,
+				"Name": "\u003cem\u003eRosa\u003c/em\u003e 'Kortemma'"
+			}
+		],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			3,
+			2,
+			4,
+			1
+		],
+		"AutoCompleteField": "Sorbus aucuparia 'Fastigiata'|Sorbus decora var. nana",
+		"AutoCompleteFieldList": [
+			"Sorbus aucuparia 'Fastigiata'"
+		],
+		"BotanicalName": "\u003cem\u003eSorbus\u003c/em\u003e \u003cem\u003edecora\u003c/em\u003e var. \u003cem\u003enana\u003c/em\u003e",
+		"BotanicalNameUnFormatted": "Sorbus decora var. nana",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 8,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 11,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 15,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 4,
+				"Season": 1
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 7,
+				"Season": 1
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 12,
+				"Season": 1
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 4,
+				"Season": 2
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 7,
+				"Season": 2
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 12,
+				"Season": 2
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 4,
+				"Season": 3
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 7,
+				"Season": 3
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 12,
+				"Season": 3
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 4,
+				"Season": 4
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 7,
+				"Season": 4
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 12,
+				"Season": 4
+			},
+			{
+				"AttributeType": 3,
+				"Colour": 11,
+				"Season": 2
+			},
+			{
+				"AttributeType": 3,
+				"Colour": 11,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 5,
+				"Season": 1
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 5,
+				"Season": 2
+			}
+		],
+		"CommonName": "rowan 'Fastigiata'",
+		"CommonNameSortField": "rowan 'Fastigiata'",
+		"CommonNames": null,
+		"Cultivation": "Grow in moisture-retentive, humus-rich, well-drained soil in sun or light dappled shade; will grow in a wide range of soils but prefers acidic or neutral soil",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/fireblight\"\u003efireblight\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/disease/apple-canker\"\u003eapple canker\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/disease/silver-leaf\"\u003esilver leaf\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/disease/honey-fungus\"\u003ehoney fungus\u003c/a\u003e",
+		"EntityDescription": "A slow-growing tree, up to 6m high, narrowly-conical when mature, with dense, stout, upright branches and large pinnate leaves with 11-15 serrated, dull dark green leaflets. Clusters, up to 12cm across, of creamy-white flowers with a musky scent appear in late spring or early summer and are followed by heavy clusters of dark sealing-wax-red berries, each 1cm across, in late summer and early autumn",
+		"Exposure": [
+			2,
+			1
+		],
+		"Family": "Rosaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "Flower",
+		"Gbif": null,
+		"Genus": "Sorbus",
+		"GenusDescription": "Sorbus can be deciduous trees or shrubs with simple or pinnate leaves and clusters of small white or pink flowers, followed by white, yellow, pink, red or brown berries; some have fine autumn colour",
+		"Habit": [
+			4
+		],
+		"HardinessLevel": 8,
+		"HasFullProfile": true,
+		"Height": "4-8 metres",
+		"HeightType": [
+			6
+		],
+		"HortGroupDescription": "",
+		"ID": 102372,
+		"ImageCopyRight": "[Dorling Kindersley Ltd], [Dorling Kindersley Ltd], [Dorling Kindersley Ltd]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "Dorling Kindersley Ltd",
+				"Image": "Web_Use-MAR0031040_10854.jpg"
+			},
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "visionspictures.com",
+				"Image": "vami01936.jpg"
+			},
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "Dorling Kindersley Ltd",
+				"Image": "Web_Use-MAR0031041_10854.jpg"
+			},
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "Dorling Kindersley Ltd",
+				"Image": "MAR0031043_10854.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": true,
+		"IsNative": false,
+		"IsPlantsForPollinators": true,
+		"IsSpecie": false,
+		"IsSynonym": true,
+		"Links": null,
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": true,
+		"NurseriesCount": 4,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, blister mites, \u003ca href=\"https://www.rhs.org.uk/biodiversity/scale-insects\"\u003escale insects\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite\"\u003eglasshouse red spider mite\u003c/a\u003e and sawflies",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "10854",
+		"PlantType": [
+			13
+		],
+		"PlantingPlaces": [
+			9
+		],
+		"Powo": null,
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/propagation/softwood-cuttings\"\u003esoftwood\u003c/a\u003e cuttings, treated with hormone rooting powder and rooted in a closed case with bottom heat or under mist in spring and early summer, by budding in summer, or by \u003ca href=\"https://www.rhs.org.uk/fruit/fruit-trees/grafting-ornamental\"\u003egrafting\u003c/a\u003e in summer or winter. Although not all cuttings will root readily, in general, plants grown on their own roots produce better specimens",
+		"Pruning": "No pruning required / \u003ca href=\"https://www.rhs.org.uk/plants/types/trees/trees-shrubs-light-pruning\"\u003ePruning group 1\u003c/a\u003e",
+		"Range": "",
+		"SeasonColourAgg": [
+			10008,
+			10011,
+			10015,
+			10006,
+			20004,
+			20007,
+			20012,
+			30011,
+			40005,
+			3008,
+			3011,
+			3015,
+			1006,
+			2006,
+			1004,
+			1007,
+			1012,
+			2004,
+			2007,
+			2012,
+			3004,
+			3007,
+			3012,
+			4004,
+			4007,
+			4012,
+			2011,
+			1005,
+			2005
+		],
+		"SeasonOfInterest": [
+			3,
+			1,
+			2,
+			4
+		],
+		"SoilType": [
+			1,
+			2,
+			3,
+			4
+		],
+		"Spread": "2.5-4 metres",
+		"SpreadType": [
+			6
+		],
+		"SuggestedPlantUses": [
+			3,
+			4,
+			11,
+			2
+		],
+		"Sunlight": [
+			1,
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 97177,
+		"SynonymParentPlantName": "\u003cem\u003eSorbus\u003c/em\u003e \u003cem\u003eaucuparia\u003c/em\u003e 'Fastigiata'",
+		"Synonyms": [
+			{
+				"ID": 332162,
+				"Name": "\u003cem\u003eSorbus\u003c/em\u003e \u003cem\u003eamericana\u003c/em\u003e 'Nana'"
+			},
+			{
+				"ID": 332165,
+				"Name": "\u003cem\u003eSorbus\u003c/em\u003e \u003cem\u003edecora\u003c/em\u003e 'Nana'"
+			},
+			{
+				"ID": 500065,
+				"Name": "\u003cem\u003eSorbus\u003c/em\u003e 'Fastigiata'"
+			},
+			{
+				"ID": 25064,
+				"Name": "\u003cem\u003eSorbus\u003c/em\u003e \u003cem\u003escopulina\u003c/em\u003e misapplied"
+			},
+			{
+				"ID": 102372,
+				"Name": "\u003cem\u003eSorbus\u003c/em\u003e \u003cem\u003edecora\u003c/em\u003e var. \u003cem\u003enana\u003c/em\u003e"
+			}
+		],
+		"TimeToFullHeight": [
+			6
+		],
+		"Toxicity": [
+			"Fruit is for ornamental purposes only.  Ingestion may cause mild stomach upset. Wear gloves and other protective equipment when handling"
+		]
+	},
+	{
+		"Aspect": [
+			3,
+			4,
+			1
+		],
+		"AutoCompleteField": "Rosa 'Applejack' (S)",
+		"AutoCompleteFieldList": [
+			"Rosa 'Applejack' (S)"
+		],
+		"BotanicalName": "\u003cem\u003eRosa\u003c/em\u003e 'Applejack' (S)",
+		"BotanicalNameUnFormatted": "Rosa 'Applejack' (S)",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 9,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 11,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 9,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 11,
+				"Season": 3
+			}
+		],
+		"CommonName": "",
+		"CommonNameSortField": "",
+		"CommonNames": null,
+		"Cultivation": "Grow in fertile, humus-rich, moist but well-drained soil in full sun. \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/mulch\"\u003eMulch\u003c/a\u003e with well-rotted \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden\"\u003eorganic matter\u003c/a\u003e in late winter or early spring, and for best flowering apply a general rose or shrub fertiliser in early spring and again in early summer. See \u003ca href=\"https://www.rhs.org.uk/plants/roses/growing-guide\"\u003erose cultivation\u003c/a\u003e",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/rose-black-spot\"\u003erose black spot\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/disease/rose-rust\"\u003erose rust\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/prevention-protection/replant-disease\"\u003ereplant disease\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/problems/rose-dieback\"\u003erose dieback\u003c/a\u003e, and rose \u003ca href=\"https://www.rhs.org.uk/disease/powdery-mildews\"\u003epowdery mildews\u003c/a\u003e and sometimes \u003ca href=\"https://www.rhs.org.uk/disease/honey-fungus\"\u003ehoney fungus\u003c/a\u003e . May also be susceptible to disorders \u003ca href=\"https://www.rhs.org.uk/problems/rose-blindness\"\u003erose blindness\u003c/a\u003e and flower balling",
+		"EntityDescription": "Vigorous and robust shrub rose about 2.5m tall, with a bushy spreading habit and mid-green leathery leaves. Very free-flowering and very fragrant, loosely semi-double, deep rose pink blooms, dappled red open from pointed buds, repeat-flowering through summer into autumn; suitable as a short climber",
+		"Exposure": [
+			1
+		],
+		"Family": "Rosaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "Flower",
+		"Gbif": null,
+		"Genus": "Rosa",
+		"GenusDescription": "Rosa can be deciduous or semi-evergreen shrubs or scrambling climbers, with usually thorny stems bearing compound pinnate leaves and solitary or clustered flowers. Flowers may be followed by showy red or purple fruits in some varieties.",
+		"Habit": [
+			1
+		],
+		"HardinessLevel": 8,
+		"HasFullProfile": true,
+		"Height": "",
+		"HeightType": [
+			5
+		],
+		"HortGroupDescription": "Shrub roses are large shrubs with usually thorny stems bearing large leaves and fragrant, single to double flowers in clusters in summer, and usually also in autumn",
+		"ID": 102396,
+		"ImageCopyRight": "",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "Peter Beales Roses",
+				"Image": "ApplejackBM2018(1).jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			3,
+			1
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": true,
+		"NurseriesCount": 0,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/rose-leafhopper\"\u003erose leafhopper\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite\"\u003eglasshouse red spider mite\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/scale-insects\"\u003escale insects\u003c/a\u003e, caterpillars, \u003ca href=\"https://www.rhs.org.uk/biodiversity/large-rose-sawfly\"\u003elarge rose sawfly\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/rose-slug-sawfly-or-slugworm\"\u003erose slugworm sawfly\u003c/a\u003e and rose leaf-rolling sawfly. \u003ca href=\"https://www.rhs.org.uk/biodiversity/deer\"\u003eDeer\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/rabbits\"\u003erabbits\u003c/a\u003e can cause damage",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "E0066573",
+		"PlantType": [
+			9
+		],
+		"PlantingPlaces": [
+			23,
+			2,
+			3,
+			9,
+			8
+		],
+		"Powo": null,
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/propagation/hardwood-cuttings\"\u003ehardwood\u003c/a\u003e cuttings in autumn, \u003ca href=\"https://www.rhs.org.uk/propagation/softwood-cuttings\"\u003esoftwood\u003c/a\u003e cuttings (under glass) in spring or summer or by \u003ca href=\"https://www.rhs.org.uk/propagation/chip-budding\"\u003echip budding\u003c/a\u003e in summer",
+		"Pruning": "See \u003ca href=\"https://www.rhs.org.uk/plants/roses/shrub/pruning-guide\"\u003epruning group 20\u003c/a\u003e (shrub roses); or can be trained as a short climber see \u003ca href=\"https://www.rhs.org.uk/plants/roses/climbing/pruning-guide\"\u003epruning group 17\u003c/a\u003e (climbing roses)",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40009,
+			40011,
+			1006,
+			2006,
+			3006,
+			2009,
+			2011,
+			3009,
+			3011
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			1,
+			2,
+			3,
+			4
+		],
+		"Spread": "",
+		"SpreadType": [
+			4
+		],
+		"SuggestedPlantUses": [
+			2,
+			4,
+			11
+		],
+		"Sunlight": [
+			1
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			3,
+			1,
+			4
+		],
+		"AutoCompleteField": "Schizanthus grahamii|Graham's butterfly orchid|notched fringe flower",
+		"AutoCompleteFieldList": [
+			"Schizanthus grahamii",
+			"notched fringe flower"
+		],
+		"BotanicalName": "\u003cem\u003eSchizanthus\u003c/em\u003e \u003cem\u003egrahamii\u003c/em\u003e",
+		"BotanicalNameUnFormatted": "Schizanthus grahamii",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 4
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 8,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 10,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 9,
+				"Season": 2
+			}
+		],
+		"CommonName": "Graham's butterfly orchid",
+		"CommonNameSortField": "Graham's butterfly orchid",
+		"CommonNames": [
+			"notched fringe flower"
+		],
+		"Cultivation": "In cool temperate regions, grow outside in summer in \u003ca href=\"https://www.rhs.org.uk/container-gardening/maintenance\"\u003econtainers\u003c/a\u003e or in a sheltered sunny border in light, fertile, well-drained soil, or in a conservatory or cool greenhouse (ventilate when temperatures rise above 7-10°C) in a coarsely draining, medium-fertility, loam-based mix, in full light with shade from hot sun or in bright filtered light; water sparingly in winter and plentifully when in full growth but without overwatering, and apply a dilute high-potash liquid fertilizer every two weeks; unlike other Schizanthus, S. grahamii is better grown on without pinching out",
+		"DiseaseResistance": "May be susceptible to wilts, \u003ca href=\"https://www.rhs.org.uk/disease/leafy-gall\"\u003eleafy gall\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/disease/powdery-mildews\"\u003epowdery mildews\u003c/a\u003e, crown, foot and root rots, and \u003ca href=\"https://www.rhs.org.uk/disease/plant-viruses\"\u003evirus diseases\u003c/a\u003e such as \u003ca href=\"https://www.rhs.org.uk/problems/tomatoes-leaf-problems\"\u003etomato\u003c/a\u003e spotted wilt but generally disease-free",
+		"EntityDescription": "S. grahamii is an upright annual 30-80cm high, with sticky, hairy stems, very finely divided leaves up to 8cm long, and in summer flowers to 3.5cm across which may vary in colour from pink to violet and purple, occasionally tinged orange, and deep yellow on the central lobe of the upper lip, followed by an ellipsoid capsule 10-12mm long",
+		"Exposure": [
+			1
+		],
+		"Family": "Solanaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": null,
+		"Genus": "Schizanthus",
+		"GenusDescription": "Schizanthus are showly annuals with pinnately dissected leaves and terminal clusters of orchid-like, 2-lipped flowers in a wide range of colours and often with a contrasting eye, from spring to autumn",
+		"Habit": [
+			4
+		],
+		"HardinessLevel": 3,
+		"HasFullProfile": true,
+		"Height": "0.5-1 metres",
+		"HeightType": [
+			3
+		],
+		"HortGroupDescription": "",
+		"ID": 102398,
+		"ImageCopyRight": "[RHS]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS",
+				"Image": "RHS_LIB0010840_9863.JPG"
+			},
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "visionspictures.com",
+				"Image": "vaem07454.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			3,
+			1
+		],
+		"NameStatus": "Correct",
+		"NotedForFragrance": false,
+		"NurseriesCount": 0,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e but generally pest-free",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "9863",
+		"PlantType": [
+			7
+		],
+		"PlantingPlaces": [
+			3,
+			8,
+			2,
+			7
+		],
+		"Powo": null,
+		"Propagation": "\u003ca href=\"https://www.rhs.org.uk/propagation/sowing-seed-outdoors\"\u003ePropagate by seed\u003c/a\u003e sown at 13-16°C in mid-spring for plants flowering in summer, or in late summer for plants grown for winter flowering under glass, and pot on regularly so that plants are in their final pots by late autumn",
+		"Pruning": "No pruning required, but good as cut flowers",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40015,
+			40008,
+			40010,
+			40009,
+			1006,
+			2006,
+			3006,
+			4006,
+			2015,
+			2008,
+			2010,
+			2009
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3,
+			4
+		],
+		"SoilType": [
+			1,
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			2,
+			4,
+			7
+		],
+		"Sunlight": [
+			1
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [
+			{
+				"ID": 161157,
+				"Name": "\u003cem\u003eSchizanthus\u003c/em\u003e \u003cem\u003eretusus\u003c/em\u003e"
+			}
+		],
+		"TimeToFullHeight": [
+			2
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			2,
+			1,
+			4
+		],
+		"AutoCompleteField": "Woodsia polystichoides",
+		"AutoCompleteFieldList": [
+			"Woodsia polystichoides"
+		],
+		"BotanicalName": "\u003cem\u003eWoodsia\u003c/em\u003e \u003cem\u003epolystichoides\u003c/em\u003e",
+		"BotanicalNameUnFormatted": "Woodsia polystichoides",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			}
+		],
+		"CommonName": "holly-fern woodsia",
+		"CommonNameSortField": "holly-fern woodsia",
+		"CommonNames": null,
+		"Cultivation": "Grow in very well-drained but moist fertile soil in partial shade.  Position crowns above soil level level and surround with small stones",
+		"DiseaseResistance": "Generally disease free",
+		"EntityDescription": "a small, long-lived deciduous fern 20-30cm in height, with softly hairy, simply pinnate light green fronds, the pinnae slightly sickle-shaped",
+		"Exposure": [
+			1
+		],
+		"Family": "Woodsiaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": null,
+		"Genus": "Woodsia",
+		"GenusDescription": "Woodsia are small, tufted deciduous ferns with pinnate or 2-pinnate fronds, and are well-suited to a rock garden",
+		"Habit": [
+			3
+		],
+		"HardinessLevel": 9,
+		"HasFullProfile": true,
+		"Height": "0.1-0.5 metres",
+		"HeightType": [
+			2
+		],
+		"HortGroupDescription": "",
+		"ID": 102400,
+		"ImageCopyRight": "[www.gardenworldimages.com]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "www.gardenworldimages.com",
+				"Image": "WSY0006112_12046.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": true,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Correct",
+		"NotedForFragrance": false,
+		"NurseriesCount": 0,
+		"PestResistance": "Generally pest-free",
+		"Ph": [
+			1,
+			3
+		],
+		"PlantEntityID": "4309",
+		"PlantType": [
+			5
+		],
+		"PlantingPlaces": [
+			1
+		],
+		"Powo": null,
+		"Propagation": "Propagate by spores or by \u003ca href=\"https://www.rhs.org.uk/plants/types/perennials/dividing\"\u003edivision\u003c/a\u003e when dormant",
+		"Pruning": "No pruning required",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			1006,
+			2006,
+			3006
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			1,
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			5,
+			4,
+			9
+		],
+		"Sunlight": [
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			4
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			3,
+			4,
+			1
+		],
+		"AutoCompleteField": "Fuchsia 'Elma'",
+		"AutoCompleteFieldList": [
+			"Fuchsia 'Elma'"
+		],
+		"BotanicalName": "\u003cem\u003eFuchsia\u003c/em\u003e 'Elma'",
+		"BotanicalNameUnFormatted": "Fuchsia 'Elma'",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 9,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 9,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 6,
+				"Season": 3
+			}
+		],
+		"CommonName": "fuchsia 'Elma'",
+		"CommonNameSortField": "fuchsia 'Elma'",
+		"CommonNames": null,
+		"Cultivation": "Can be grown outdoors in moist, fertile soil. Plant the base of the stem 5cm below the soil surface and provide a deep winter \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/mulch\"\u003emulch\u003c/a\u003e and shelter from cold drying winds. See \u003ca href=\"https://www.rhs.org.uk/plants/fuchsia/hardy/growing-guide\"\u003ehardy fuchsia cultivation\u003c/a\u003e for further information",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/fuchsia-rust\"\u003efuchsia rust\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/disease/grey-mould\"\u003egrey moulds\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/disease/honey-fungus\"\u003ehoney fungus\u003c/a\u003e (rarely)",
+		"EntityDescription": "A compact, deciduous, bushy shrub to around 45cm tall and wide with dark green foliage. Single flowers are borne from summer into autumn and comprise green-tipped, pale pink sepals surrounding a white corolla veined with pink",
+		"Exposure": [
+			1
+		],
+		"Family": "Onagraceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": null,
+		"Genus": "Fuchsia",
+		"GenusDescription": "Fuchsia can be deciduous or evergreen shrubs or trees, rarely perennials, with opposite or whorled leaves and usually pendent flowers with conspicuous tubular calyx, 4 spreading sepals and 4 erect petals",
+		"Habit": [
+			1
+		],
+		"HardinessLevel": 6,
+		"HasFullProfile": true,
+		"Height": "0.1-0.5 metres",
+		"HeightType": [
+			2
+		],
+		"HortGroupDescription": "",
+		"ID": 102401,
+		"ImageCopyRight": "[RHS]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS",
+				"Image": "Web_Use-NHRF18019_14242.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": true,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			3,
+			1
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 1,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/fuchsia-gall-mite\"\u003efuchsia gall mite\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/capsid-bugs\"\u003ecapsid bug\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/vine-weevil\"\u003evine weevil\u003c/a\u003e ",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "14242",
+		"PlantType": [
+			6
+		],
+		"PlantingPlaces": [
+			8,
+			3,
+			7
+		],
+		"Powo": null,
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/propagation/softwood-cuttings\"\u003esoftwood\u003c/a\u003e or \u003ca href=\"https://www.rhs.org.uk/propagation/semi-ripe-cuttings\"\u003esemi-hardwood\u003c/a\u003e cuttings",
+		"Pruning": "\u003ca href=\"https://www.rhs.org.uk/plants/types/shrubs/summer-autumn-pruning-guide\"\u003ePruning group 6\u003c/a\u003e",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40009,
+			40014,
+			40006,
+			1006,
+			2006,
+			3006,
+			2009,
+			2014,
+			3009,
+			3014
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			1,
+			2,
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			3,
+			2,
+			4,
+			7
+		],
+		"Sunlight": [
+			1,
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			3,
+			4,
+			1
+		],
+		"AutoCompleteField": "Iris versicolor 'Mysterious Monique'",
+		"AutoCompleteFieldList": [
+			"Iris versicolor 'Mysterious Monique'"
+		],
+		"BotanicalName": "\u003cem\u003eIris\u003c/em\u003e \u003cem\u003eversicolor\u003c/em\u003e 'Mysterious Monique'",
+		"BotanicalNameUnFormatted": "Iris versicolor 'Mysterious Monique'",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 7,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 12,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 7,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 12,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 7,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 12,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 2,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 10,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 2
+			}
+		],
+		"CommonName": "iris 'Mysterious Monique'",
+		"CommonNameSortField": "iris 'Mysterious Monique'",
+		"CommonNames": null,
+		"Cultivation": "This cultivar is perfect for planting at sunny pond margins and boggy conditions. Plant in deep, moist to wet, humus-rich acidic soil. Will not tolerate dying out",
+		"DiseaseResistance": "Generally disease free",
+		"EntityDescription": "'Mysterious Monique' is a robust, clump-forming perennial to 80cm tall with arching, narrow leaves and branched stems bearing several deep purple-blue flowers with white-yellow stripes and veining in summer",
+		"Exposure": [
+			2,
+			1
+		],
+		"Family": "Iridaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": {
+			"ID": "5298019"
+		},
+		"Genus": "Iris",
+		"GenusDescription": "Iris may be rhizomatous or bulbous perennials, with narrow leaves and erect stems bearing flowers with 3 large spreading or pendent fall petals, alternating with 3 erect, often smaller, standard petals, in late winter, spring or early summer",
+		"Habit": [
+			3
+		],
+		"HardinessLevel": 9,
+		"HasFullProfile": true,
+		"Height": "0.5-1 metres",
+		"HeightType": [
+			3
+		],
+		"HortGroupDescription": "",
+		"ID": 102406,
+		"ImageCopyRight": "[RHS], [RHS / Joanna Kossak]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS",
+				"Image": "RHS_WSYD0013038_12257.JPG"
+			},
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS / Joanna Kossak",
+				"Image": "Web_Use-_KOT0954_12257.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": true,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": [
+			"https://www.gbif.org/species/5298019",
+			"https://apiv3.iucnredlist.org/api/v3/taxonredirect/64315086",
+			"https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:439235-1",
+			"https://identify.plantnet.org/en/k-world-flora/species/Iris%20versicolor%20L./data"
+		],
+		"Moisture": [
+			2
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 2,
+		"PestResistance": "Susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/slugs\"\u003eslugs\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/snails\"\u003esnails\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/thrips\"\u003ethrips\u003c/a\u003e",
+		"Ph": [
+			1,
+			3
+		],
+		"PlantEntityID": "12257",
+		"PlantType": [
+			18,
+			1
+		],
+		"PlantingPlaces": [
+			8,
+			3,
+			4
+		],
+		"Powo": {
+			"ID": "439235-1"
+		},
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/plants/types/perennials/dividing\"\u003edivision\u003c/a\u003e of rhizomes in autumn",
+		"Pruning": "Remove any dying foliage in autumn; old flower stems can be cut down after flowering",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			10007,
+			10012,
+			40002,
+			40010,
+			40014,
+			40015,
+			1006,
+			1007,
+			1012,
+			2006,
+			2007,
+			2012,
+			3006,
+			3007,
+			3012,
+			2002,
+			2010,
+			2014,
+			2015
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			2,
+			3
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			2,
+			3,
+			4
+		],
+		"Sunlight": [
+			1,
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [
+			{
+				"ID": 231293,
+				"Name": "\u003cem\u003eIris\u003c/em\u003e \u003cem\u003elaevigata\u003c/em\u003e 'Mysterious Monique'"
+			}
+		],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": [
+			"Ingestion may cause severe discomfort. Wear gloves and wash hands after handling"
+		]
+	},
+	{
+		"Aspect": [
+			3,
+			4,
+			1,
+			2
+		],
+		"AutoCompleteField": "Rosa 'Laura Louisa' (Cl)",
+		"AutoCompleteFieldList": [
+			"Rosa 'Laura Louisa' (Cl)"
+		],
+		"BotanicalName": "\u003cem\u003eRosa\u003c/em\u003e 'Laura Louisa' (Cl)",
+		"BotanicalNameUnFormatted": "Rosa 'Laura Louisa' (Cl)",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 9,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 8,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 9,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 8,
+				"Season": 3
+			}
+		],
+		"CommonName": "",
+		"CommonNameSortField": "",
+		"CommonNames": null,
+		"Cultivation": "Grow in fertile, humus-rich, moist but well-drained soil in full sun or part shade; a good pillar rose, suited to a north-facing situation. \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/mulch\"\u003eMulch\u003c/a\u003e with well-rotted \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/organic-matter-how-to-use-in-garden\"\u003eorganic matter\u003c/a\u003e in late winter or early spring, and for best flowering apply a general rose or shrub fertiliser in early spring and again in early summer. See \u003ca href=\"https://www.rhs.org.uk/plants/roses/growing-guide\"\u003erose cultivation\u003c/a\u003e",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/rose-black-spot\"\u003erose black spot\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/disease/rose-rust\"\u003erose rust\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/prevention-protection/replant-disease\"\u003ereplant disease\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/problems/rose-dieback\"\u003erose dieback\u003c/a\u003e, and \u003ca href=\"https://www.rhs.org.uk/disease/rose-powdery-mildew\"\u003erose powdery mildew\u003c/a\u003e. May also be susceptible to disorders \u003ca href=\"https://www.rhs.org.uk/problems/rose-blindness\"\u003erose blindness\u003c/a\u003e and flower balling and sometimes \u003ca href=\"https://www.rhs.org.uk/disease/honey-fungus\"\u003ehoney fungus\u003c/a\u003e",
+		"EntityDescription": "Robust, healthy climbing rose to 3.6m tall, a sport of R. 'Leverkusen' with glossy, pale green, serrated leaves and fragrant, double blooms of mid-pink to salmon, almost continously in flower through summer and into autumn. Can be grown as a large shrub with some support",
+		"Exposure": [
+			1
+		],
+		"Family": "Rosaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "Flower",
+		"Gbif": null,
+		"Genus": "Rosa",
+		"GenusDescription": "Rosa can be deciduous or semi-evergreen shrubs or scrambling climbers, with usually thorny stems bearing compound pinnate leaves and solitary or clustered flowers. Flowers may be followed by showy red or purple fruits in some varieties.",
+		"Habit": [
+			2,
+			1
+		],
+		"HardinessLevel": 8,
+		"HasFullProfile": true,
+		"Height": "2.5-4 metres",
+		"HeightType": [
+			7
+		],
+		"HortGroupDescription": "Climbing roses are vigorous shrubs with thorny stems and large, solitary or clustered, often fragrant, usually remontant flowers",
+		"ID": 102418,
+		"ImageCopyRight": "",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "",
+				"Image": ""
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": false,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": null,
+		"Moisture": [
+			3,
+			1
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": true,
+		"NurseriesCount": 2,
+		"PestResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/biodiversity/aphids\"\u003eaphids\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/rose-leafhopper\"\u003erose leafhopper\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite\"\u003eglasshouse red spider mite\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/scale-insects\"\u003escale insects\u003c/a\u003e, caterpillars, \u003ca href=\"https://www.rhs.org.uk/biodiversity/large-rose-sawfly\"\u003elarge rose sawfly\u003c/a\u003e, \u003ca href=\"https://www.rhs.org.uk/biodiversity/rose-slug-sawfly-or-slugworm\"\u003erose slugworm sawfly\u003c/a\u003e and rose leaf-rolling sawfly. \u003ca href=\"https://www.rhs.org.uk/biodiversity/deer\"\u003eDeer\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/biodiversity/rabbits\"\u003erabbits\u003c/a\u003e can cause damage",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "E0066591",
+		"PlantType": [
+			9
+		],
+		"PlantingPlaces": [
+			23,
+			2,
+			8
+		],
+		"Powo": null,
+		"Propagation": "For home use, propagate by \u003ca href=\"https://www.rhs.org.uk/propagation/hardwood-cuttings\"\u003ehardwood\u003c/a\u003e cuttings in autumn, \u003ca href=\"https://www.rhs.org.uk/propagation/softwood-cuttings\"\u003esoftwood\u003c/a\u003e cuttings (under glass) in spring or summer or by \u003ca href=\"https://www.rhs.org.uk/propagation/chip-budding\"\u003echip budding\u003c/a\u003e in summer",
+		"Pruning": "See \u003ca href=\"https://www.rhs.org.uk/plants/roses/climbing/pruning-guide\"\u003epruning group 17\u003c/a\u003e (climbing roses)",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			40009,
+			40008,
+			1006,
+			2006,
+			3006,
+			2009,
+			2008,
+			3009,
+			3008
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3
+		],
+		"SoilType": [
+			1,
+			2,
+			3,
+			4
+		],
+		"Spread": "1.5-2.5 metres",
+		"SpreadType": [
+			5
+		],
+		"SuggestedPlantUses": [
+			2,
+			4
+		],
+		"Sunlight": [
+			1,
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			4
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			4,
+			3,
+			1
+		],
+		"AutoCompleteField": "Festuca glauca 'Blaufuchs'|Festuca glauca 'Blue Fox'",
+		"AutoCompleteFieldList": [
+			"Festuca glauca 'Blaufuchs'"
+		],
+		"BotanicalName": "\u003cem\u003eFestuca\u003c/em\u003e \u003cem\u003eglauca\u003c/em\u003e 'Blue Fox'",
+		"BotanicalNameUnFormatted": "Festuca glauca 'Blue Fox'",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 2,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 7,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 12,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 2,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 7,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 12,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 2,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 7,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 12,
+				"Season": 3
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 2,
+				"Season": 4
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 4
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 7,
+				"Season": 4
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 12,
+				"Season": 4
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 16,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 4,
+				"Season": 3
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 2,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 7,
+				"Season": 2
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 12,
+				"Season": 2
+			}
+		],
+		"CommonName": "blue fescue 'Blaufuchs'",
+		"CommonNameSortField": "blue fescue 'Blaufuchs'",
+		"CommonNames": null,
+		"Cultivation": "Grow in poor to moderately fertile, well-drained soil in full sun. Clumps tend to die out in the middle, so ideally divide every three years. Further \u003ca href=\"https://www.rhs.org.uk/plants/types/grasses/ornamental\"\u003eornamental grasses cultivation\u003c/a\u003e advice",
+		"DiseaseResistance": "May be susceptible to \u003ca href=\"https://www.rhs.org.uk/disease/rust-diseases\"\u003ea rust\u003c/a\u003e",
+		"EntityDescription": "Forms small evergreen cushions to 30cm tall, of very fine bright blue leaves, becoming greener in winter. From late spring to summer it bears narrow, bristly blue-green flower plumes that turn golden-brown",
+		"Exposure": [
+			2,
+			1
+		],
+		"Family": "Poaceae",
+		"Foliage": [
+			2
+		],
+		"Fragrance": "",
+		"Gbif": null,
+		"Genus": "Festuca",
+		"GenusDescription": "Festuca can be herbaceous or evergreen, rhizomatous grasses with linear, often strikingly coloured, leaves, and dense or lax panicles of brownish flowers in summer",
+		"Habit": [
+			12
+		],
+		"HardinessLevel": 7,
+		"HasFullProfile": true,
+		"Height": "0.1-0.5 metres",
+		"HeightType": [
+			2
+		],
+		"HortGroupDescription": "",
+		"ID": 102420,
+		"ImageCopyRight": "[RHS 2002]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "visionspictures.com",
+				"Image": "elbo13345.jpg"
+			},
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS 2002",
+				"Image": "WSY0035649_4057.jpg"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": true,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": true,
+		"Links": null,
+		"Moisture": [
+			3,
+			1
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 14,
+		"PestResistance": "Generally pest-free",
+		"Ph": [
+			1,
+			2,
+			3
+		],
+		"PlantEntityID": "792",
+		"PlantType": [
+			10
+		],
+		"PlantingPlaces": [
+			7,
+			3,
+			4
+		],
+		"Powo": null,
+		"Propagation": "\u003ca href=\"https://www.rhs.org.uk/propagation/sowing-seed-outdoors\"\u003ePropagate by seed\u003c/a\u003e sown in pots in a cold frame in spring or by \u003ca href=\"https://www.rhs.org.uk/plants/types/perennials/dividing\"\u003edivision\u003c/a\u003e in spring",
+		"Pruning": "Comb out dead foliage and trim damaged parts of older leaves in spring",
+		"Range": "",
+		"SeasonColourAgg": [
+			10002,
+			10007,
+			10012,
+			10006,
+			40016,
+			40004,
+			40002,
+			40006,
+			40007,
+			40012,
+			1002,
+			1007,
+			1012,
+			2002,
+			2007,
+			2012,
+			3002,
+			3007,
+			3012,
+			4002,
+			4006,
+			4007,
+			4012,
+			3016,
+			3004,
+			2006
+		],
+		"SeasonOfInterest": [
+			1,
+			2,
+			3,
+			4
+		],
+		"SoilType": [
+			1,
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			9,
+			7,
+			1,
+			2,
+			3,
+			4,
+			5
+		],
+		"Sunlight": [
+			1
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 112608,
+		"SynonymParentPlantName": "\u003cem\u003eFestuca\u003c/em\u003e \u003cem\u003eglauca\u003c/em\u003e 'Blaufuchs'",
+		"Synonyms": [
+			{
+				"ID": 102420,
+				"Name": "\u003cem\u003eFestuca\u003c/em\u003e \u003cem\u003eglauca\u003c/em\u003e 'Blue Fox'"
+			},
+			{
+				"ID": 83461,
+				"Name": "\u003cem\u003eFestuca\u003c/em\u003e \u003cem\u003eglauca\u003c/em\u003e \u003cspan style\"font-variant: small-caps;\"\u003eBlue Fox\u003c/span\u003e"
+			}
+		],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": null
+	},
+	{
+		"Aspect": [
+			3,
+			2,
+			4,
+			1
+		],
+		"AutoCompleteField": "Erythronium revolutum 'Knightshayes Pink'",
+		"AutoCompleteFieldList": [
+			"Erythronium revolutum 'Knightshayes Pink'"
+		],
+		"BotanicalName": "\u003cem\u003eErythronium\u003c/em\u003e \u003cem\u003erevolutum\u003c/em\u003e 'Knightshayes Pink'",
+		"BotanicalNameUnFormatted": "Erythronium revolutum 'Knightshayes Pink'",
+		"ColourWithAttributes": [
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 11,
+				"Season": 1
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 6,
+				"Season": 2
+			},
+			{
+				"AttributeType": 1,
+				"Colour": 11,
+				"Season": 2
+			},
+			{
+				"AttributeType": 2,
+				"Colour": 11,
+				"Season": 1
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 9,
+				"Season": 1
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 14,
+				"Season": 1
+			},
+			{
+				"AttributeType": 4,
+				"Colour": 15,
+				"Season": 1
+			}
+		],
+		"CommonName": "mahogany fawn lily 'Knightshayes Pink'",
+		"CommonNameSortField": "mahogany fawn lily 'Knightshayes Pink'",
+		"CommonNames": null,
+		"Cultivation": "Plant bulbs in autumn, at least 10cm deep, in fertile, humus-rich, well-drained soil that does not dry out, in light dappled or partial shade, for example in a woodland garden, and \u003ca href=\"https://www.rhs.org.uk/soil-composts-mulches/mulch\"\u003emulch\u003c/a\u003e each year with leafmould; keep bulbs slightly damp during storage and before planting.  See \u003ca href=\"https://www.rhs.org.uk/plants/types/bulbs/growing-guide\"\u003ebulb cultivation\u003c/a\u003e",
+		"DiseaseResistance": "Generally disease-free but may be affected by \u003ca href=\"https://www.rhs.org.uk/disease/grey-mould\"\u003egrey moulds\u003c/a\u003e and \u003ca href=\"https://www.rhs.org.uk/disease/rust-diseases\"\u003erust diseases\u003c/a\u003e",
+		"EntityDescription": "'Knightshayes Pink' is a bulbous herbaceous perennial up to 35cm high with elliptic, wavy-edged, deep green leaves, mottled with maroon, which die down in summer, and pink flowers with white bases dotted with yellow, and yellow anthers, in spring",
+		"Exposure": [
+			1
+		],
+		"Family": "Liliaceae",
+		"Foliage": [
+			1
+		],
+		"Fragrance": "",
+		"Gbif": {
+			"ID": "2752833"
+		},
+		"Genus": "Erythronium",
+		"GenusDescription": "Erythronium are bulbous perennials with paired, ovate or broadly elliptic leaves, and leafless stems bearing one or more nodding, star-shaped flowers with recurved petals",
+		"Habit": [
+			3
+		],
+		"HardinessLevel": 7,
+		"HasFullProfile": true,
+		"Height": "0.1-0.5 metres",
+		"HeightType": [
+			2
+		],
+		"HortGroupDescription": "",
+		"ID": 102443,
+		"ImageCopyRight": "[Dorling Kindersley Ltd], [RHS]",
+		"Images": [
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "Dorling Kindersley Ltd",
+				"Image": "MAR0034589_12144.jpg"
+			},
+			{
+				"BaseURL": "https://apps.rhs.org.uk/plantselectorimages/detail",
+				"CopyRight": "RHS",
+				"Image": "RHS_PUB0038675_12144.JPG"
+			}
+		],
+		"IsAgm": false,
+		"IsDroughtResistance": false,
+		"IsGenus": false,
+		"IsLowMaintenance": true,
+		"IsNative": false,
+		"IsPlantsForPollinators": false,
+		"IsSpecie": false,
+		"IsSynonym": false,
+		"Links": [
+			"https://www.gbif.org/species/2752833",
+			"https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:96854-2",
+			"https://identify.plantnet.org/en/k-world-flora/species/Erythronium%20revolutum%20Sm./data"
+		],
+		"Moisture": [
+			3
+		],
+		"NameStatus": "Accepted",
+		"NotedForFragrance": false,
+		"NurseriesCount": 3,
+		"PestResistance": "May be affected by \u003ca href=\"https://www.rhs.org.uk/biodiversity/slugs\"\u003eslugs\u003c/a\u003e",
+		"Ph": [
+			1,
+			3
+		],
+		"PlantEntityID": "12144",
+		"PlantType": [
+			4
+		],
+		"PlantingPlaces": [
+			3,
+			6
+		],
+		"Powo": {
+			"ID": "96854-2"
+		},
+		"Propagation": "Propagate by \u003ca href=\"https://www.rhs.org.uk/plants/types/perennials/dividing\"\u003edivision\u003c/a\u003e of established clumps after flowering; re-plant immediately to make sure the bulbs do not dry out",
+		"Pruning": "No pruning required",
+		"Range": "",
+		"SeasonColourAgg": [
+			10006,
+			10011,
+			20011,
+			40009,
+			40014,
+			40015,
+			1006,
+			1011,
+			2006,
+			2011,
+			1009,
+			1014,
+			1015
+		],
+		"SeasonOfInterest": [
+			1,
+			2
+		],
+		"SoilType": [
+			3,
+			4
+		],
+		"Spread": "0.1-0.5 metres",
+		"SpreadType": [
+			2
+		],
+		"SuggestedPlantUses": [
+			4
+		],
+		"Sunlight": [
+			2
+		],
+		"SupplierURL": "",
+		"SynonymParentPlantID": 0,
+		"SynonymParentPlantName": null,
+		"Synonyms": [],
+		"TimeToFullHeight": [
+			3
+		],
+		"Toxicity": null
+	}
+]
